@@ -1,0 +1,501 @@
+Store_ID,Store_Location,Date,Product_ID,Product_Category,Units_Sold,Total_Revenue,Average_Transaction_Value,Discount_Applied,Sales_Channel
+7,Lahore,2024-01-01,1335,Produce,22.0,1619.58,47.62,False,Online
+20,Karachi,2024-01-02,1134,Dairy,11.0,450.71,18.0,True,Online
+15,Rawalpindi,2024-01-03,1118,Household,27.0,661.03,71.54,False,Online
+11,Islamabad,2024-01-04,1369,Snacks,3.0,1607.47,59.06,False,Online
+8,Islamabad,2024-01-05,1094,Produce,17.0,,98.25,True,In-store
+7,Karachi,2024-01-06,1486,Snacks,44.0,1843.73,30.47,True,Online
+19,Rawalpindi,2024-01-07,1435,Frozen Foods,28.0,906.6,46.36,True,Online
+11,Rawalpindi,2024-01-08,1062,Beverages,29.0,265.37,58.83,False,In-store
+11,Islamabad,2024-01-09,1441,Household,21.0,1649.92,81.25,True,Online
+4,Lahore,2024-01-10,1194,Snacks,47.0,809.67,59.4,False,In-store
+8,Islamabad,2024-01-11,1335,Beverages,16.0,1100.35,65.16,True,In-store
+3,Rawalpindi,2024-01-12,1203,Produce,37.0,313.38,30.35,False,In-store
+2,Karachi,2024-01-13,1392,Beverages,20.0,104.91,86.22,True,Online
+12,Islamabad,2024-01-14,1026,Household,6.0,1312.17,48.58,True,In-store
+6,Rawalpindi,2024-01-15,1435,Snacks,19.0,1078.83,22.69,False,In-store
+2,Islamabad,2024-01-16,1173,Frozen Foods,5.0,1227.72,69.78,False,In-store
+1,Lahore,2024-01-17,1300,Bakery,3.0,1608.11,29.45,False,Online
+12,Islamabad,2024-01-18,1133,Produce,1.0,1328.55,18.78,False,Online
+12,Islamabad,2024-01-19,1326,Snacks,38.0,432.07,87.58,False,Online
+17,Rawalpindi,2024-01-20,1410,Household,15.0,785.47,51.41,False,Online
+10,Rawalpindi,2024-01-21,1118,Produce,34.0,1821.19,77.44,True,Online
+16,Rawalpindi,2024-01-22,1324,Dairy,35.0,1562.89,36.15,False,Online
+15,Islamabad,2024-01-23,1275,Beverages,49.0,1157.61,80.83,True,Online
+15,Lahore,2024-01-24,1212,Bakery,25.0,,20.07,True,In-store
+19,Karachi,2024-01-25,1225,Household,24.0,673.91,42.04,False,In-store
+12,Karachi,2024-01-26,1020,Dairy,12.0,1490.72,98.03,True,In-store
+20,Rawalpindi,2024-01-27,1113,Snacks,18.0,,81.46,False,In-store
+3,Rawalpindi,2024-01-28,1140,Frozen Foods,15.0,1375.71,54.75,False,Online
+5,Islamabad,2024-01-29,1047,Produce,44.0,1638.11,40.58,True,In-store
+19,Karachi,2024-01-30,1001,Beverages,16.0,1556.65,88.49,True,In-store
+7,Rawalpindi,2024-01-31,1090,Produce,27.0,384.44,59.04,False,In-store
+9,Lahore,2024-02-01,1142,Bakery,8.0,905.5,78.26,False,In-store
+7,Lahore,2024-02-02,1320,Snacks,46.0,390.67,77.87,True,Online
+18,Rawalpindi,2024-02-03,1038,Produce,,,11.62,True,Online
+4,Rawalpindi,2024-02-04,1293,Beverages,17.0,1751.59,21.36,True,Online
+14,Karachi,2024-02-05,1382,Snacks,29.0,998.49,69.37,True,In-store
+18,Karachi,2024-02-06,1139,Produce,8.0,1117.18,24.55,False,Online
+9,Islamabad,2024-02-07,1356,Frozen Foods,15.0,439.05,32.99,False,In-store
+2,Karachi,2024-02-08,1333,Household,27.0,693.32,95.2,False,Online
+20,Lahore,2024-02-09,1491,Snacks,46.0,537.47,60.42,False,Online
+15,Lahore,2024-02-10,1259,Household,7.0,491.75,77.57,True,Online
+7,Rawalpindi,2024-02-11,1161,Snacks,3.0,1312.13,60.22,True,Online
+12,Karachi,2024-02-12,1390,Frozen Foods,29.0,588.08,59.73,False,Online
+8,Islamabad,2024-02-13,1178,Household,44.0,1300.83,18.47,False,In-store
+15,Lahore,2024-02-14,1010,Dairy,24.0,211.06,40.93,False,Online
+3,Lahore,2024-02-15,1261,Beverages,3.0,369.37,35.42,False,In-store
+14,Islamabad,2024-02-16,1407,Dairy,20.0,621.63,45.17,False,In-store
+17,Islamabad,2024-02-17,1138,Produce,46.0,1234.39,81.85,False,In-store
+4,Lahore,2024-02-18,1172,Frozen Foods,15.0,1384.1,43.47,False,In-store
+18,Lahore,2024-02-19,1386,Dairy,25.0,,50.65,False,In-store
+8,Islamabad,2024-02-20,1013,Snacks,30.0,947.0,45.76,False,Online
+4,Lahore,2024-02-21,1168,Produce,14.0,1476.58,18.41,True,Online
+2,Rawalpindi,2024-02-22,1130,Produce,7.0,130.06,49.7,False,Online
+6,Rawalpindi,2024-02-23,1084,Dairy,17.0,748.07,27.6,True,Online
+10,Islamabad,2024-02-24,1321,Dairy,44.0,1655.54,26.81,True,In-store
+4,Karachi,2024-02-25,1319,Frozen Foods,20.0,1246.12,18.46,False,Online
+18,Islamabad,2024-02-26,1101,Beverages,36.0,740.73,42.1,False,Online
+12,Islamabad,2024-02-27,1329,Dairy,9.0,1820.5,78.17,True,In-store
+2,Karachi,2024-02-28,1273,Bakery,38.0,1567.98,34.88,True,In-store
+10,Karachi,2024-02-29,1265,Dairy,48.0,603.3,38.11,False,Online
+4,Karachi,2024-03-01,1459,Household,22.0,1326.05,67.84,True,Online
+14,Rawalpindi,2024-03-02,1399,Snacks,2.0,1231.93,27.63,False,In-store
+16,Lahore,2024-03-03,1408,Bakery,24.0,862.26,90.73,False,Online
+15,Rawalpindi,2024-03-04,1038,Bakery,8.0,797.22,56.82,False,Online
+8,Lahore,2024-03-05,1419,Household,11.0,752.76,50.28,True,Online
+14,Rawalpindi,2024-03-06,1094,Household,13.0,1272.6,60.2,True,Online
+8,Lahore,2024-03-07,1095,Produce,183.0,940.58,24.94,False,In-store
+16,Rawalpindi,2024-03-08,1305,Beverages,8.0,1680.54,65.21,True,In-store
+13,Karachi,2024-03-09,1069,Snacks,21.0,1372.24,42.68,True,In-store
+18,Islamabad,2024-03-10,1318,Frozen Foods,18.0,232.87,90.75,True,Online
+15,Rawalpindi,2024-03-11,1444,Bakery,30.0,1316.32,25.2,True,Online
+13,Lahore,2024-03-12,1236,Frozen Foods,18.0,615.18,55.63,True,Online
+9,Karachi,2024-03-13,1434,Dairy,46.0,1226.34,63.83,True,Online
+15,Rawalpindi,2024-03-14,1334,Dairy,47.0,1392.25,13.0,True,Online
+13,Rawalpindi,2024-03-15,1373,Frozen Foods,31.0,538.58,42.73,False,In-store
+1,Karachi,2024-03-16,1376,Dairy,38.0,968.03,75.94,True,Online
+7,Rawalpindi,2024-03-17,1459,Beverages,32.0,461.62,83.83,True,Online
+9,Islamabad,2024-03-18,1137,Household,11.0,199.44,38.18,True,In-store
+1,Rawalpindi,2024-03-19,1418,Dairy,45.0,819.11,81.87,True,Online
+12,Islamabad,2024-03-20,1076,Produce,25.0,789.59,97.1,True,In-store
+8,Islamabad,2024-03-21,1483,Dairy,33.0,1991.41,87.12,True,In-store
+11,Karachi,2024-03-22,1035,Snacks,38.0,948.07,20.59,True,In-store
+19,Rawalpindi,2024-03-23,1001,Beverages,41.0,733.78,76.58,True,In-store
+17,Karachi,2024-03-24,1296,Snacks,8.0,1202.9,38.77,False,In-store
+8,Rawalpindi,2024-03-25,1320,Snacks,11.0,268.66,98.96,True,Online
+3,Rawalpindi,2024-03-26,1406,Produce,103.0,1927.16,53.68,True,In-store
+3,Lahore,2024-03-27,1060,Beverages,24.0,1306.42,21.02,True,In-store
+1,Rawalpindi,2024-03-28,1320,Beverages,41.0,1534.19,75.27,True,Online
+5,Karachi,2024-03-29,1349,Beverages,17.0,423.91,39.07,False,Online
+10,Islamabad,2024-03-30,1328,Beverages,12.0,878.01,99.74,False,In-store
+7,Rawalpindi,2024-03-31,1267,Beverages,46.0,903.11,98.18,False,Online
+9,Lahore,2024-04-01,1361,Produce,,1661.43,69.05,False,Online
+7,Karachi,2024-04-02,1229,Dairy,15.0,102.35,21.68,False,In-store
+9,Rawalpindi,2024-04-03,1270,Snacks,16.0,671.62,71.82,False,In-store
+8,Karachi,2024-04-04,1316,Beverages,22.0,1964.35,18.37,False,Online
+12,Lahore,2024-04-05,1286,Bakery,28.0,1002.28,12.64,False,In-store
+2,Lahore,2024-04-06,1291,Dairy,20.0,826.8,84.07,False,In-store
+1,Karachi,2024-04-07,1213,Dairy,33.0,327.68,28.88,False,Online
+16,Rawalpindi,2024-04-08,1165,Snacks,10.0,1950.91,44.11,False,In-store
+5,Islamabad,2024-04-09,1005,Produce,40.0,138.05,97.61,False,In-store
+3,Lahore,2024-04-10,1339,Frozen Foods,32.0,,40.32,False,In-store
+12,Rawalpindi,2024-04-11,1379,Frozen Foods,33.0,1560.34,36.68,False,In-store
+8,Rawalpindi,2024-04-12,1078,Dairy,2.0,562.95,92.64,False,In-store
+3,Islamabad,2024-04-13,1410,Household,33.0,1375.96,19.97,False,Online
+1,Lahore,2024-04-14,1062,Household,33.0,276.57,78.36,True,Online
+3,Lahore,2024-04-15,1132,Snacks,41.0,588.39,98.93,False,In-store
+5,Rawalpindi,2024-04-16,1089,Frozen Foods,13.0,1597.01,91.12,True,Online
+15,Rawalpindi,2024-04-17,1237,Dairy,30.0,1742.9,68.65,False,In-store
+14,Islamabad,2024-04-18,1042,Produce,33.0,1256.12,38.27,False,In-store
+3,Islamabad,2024-04-19,1089,Frozen Foods,13.0,1062.99,32.89,True,In-store
+1,Lahore,2024-04-20,1402,Dairy,26.0,402.68,83.73,False,In-store
+5,Karachi,2024-04-21,1296,Dairy,22.0,219.91,89.18,True,In-store
+14,Lahore,2024-04-22,1328,Beverages,39.0,323.53,57.29,True,Online
+7,Rawalpindi,2024-04-23,1295,Produce,2.0,531.98,31.99,True,Online
+9,Lahore,2024-04-24,1104,Beverages,38.0,749.18,20.16,False,In-store
+15,Karachi,2024-04-25,1014,Snacks,39.0,823.73,17.85,False,Online
+15,Islamabad,2024-04-26,1288,Beverages,26.0,758.01,74.72,False,In-store
+10,Karachi,2024-04-27,1179,Bakery,46.0,554.21,47.81,True,Online
+13,Karachi,2024-04-28,1125,Beverages,15.0,1068.48,91.48,True,In-store
+19,Karachi,2024-04-29,1422,Bakery,34.0,1668.04,76.57,False,Online
+7,Islamabad,2024-04-30,1353,Frozen Foods,42.0,631.44,27.21,False,In-store
+17,Karachi,2024-05-01,1023,Household,44.0,1890.54,65.24,False,In-store
+20,Karachi,2024-05-02,1063,Dairy,49.0,1759.34,49.2,False,Online
+4,Karachi,2024-05-03,1143,Bakery,40.0,407.35,61.95,False,Online
+5,Rawalpindi,2024-05-04,1481,Produce,11.0,1593.92,76.43,True,In-store
+7,Karachi,2024-05-05,1153,Beverages,3.0,1191.72,82.56,True,Online
+13,Islamabad,2024-05-06,1145,Bakery,6.0,1176.49,85.94,True,In-store
+15,Karachi,2024-05-07,1225,Produce,9.0,842.98,32.86,False,Online
+11,Karachi,2024-05-08,1495,Household,6.0,1052.19,12.8,True,Online
+4,Islamabad,2024-05-09,1450,Household,9.0,854.64,76.54,True,In-store
+13,Karachi,2024-05-10,1462,Beverages,39.0,1125.49,19.57,True,Online
+7,Islamabad,2024-05-11,1309,Snacks,31.0,1293.11,38.34,True,Online
+19,Karachi,2024-05-12,1104,Beverages,32.0,1381.18,10.34,True,In-store
+2,Islamabad,2024-05-13,1104,Frozen Foods,41.0,1111.71,71.35,False,Online
+10,Karachi,2024-05-14,1435,Bakery,12.0,1470.7,25.04,True,In-store
+13,Karachi,2024-05-15,1039,Dairy,8.0,368.43,68.98,False,In-store
+6,Rawalpindi,2024-05-16,1435,Snacks,8.0,502.77,99.26,False,In-store
+12,Rawalpindi,2024-05-17,1198,Beverages,28.0,1655.6,16.54,False,In-store
+12,Karachi,2024-05-18,1134,Produce,20.0,712.8,16.94,False,In-store
+20,Karachi,2024-05-19,1067,Snacks,47.0,143.5,40.63,False,Online
+11,Lahore,2024-05-20,1391,Bakery,7.0,392.2,87.97,True,In-store
+7,Islamabad,2024-05-21,1179,Snacks,11.0,524.87,29.4,True,In-store
+1,Lahore,2024-05-22,1456,Bakery,20.0,1918.91,42.43,False,Online
+1,Rawalpindi,2024-05-23,1042,Beverages,16.0,1188.78,16.17,False,Online
+20,Rawalpindi,2024-05-24,1448,Bakery,4.0,1872.19,78.68,False,Online
+13,Rawalpindi,2024-05-25,1500,Snacks,6.0,1192.81,46.75,True,In-store
+9,Rawalpindi,2024-05-26,1015,Produce,22.0,1010.77,78.33,False,In-store
+3,Karachi,2024-05-27,1111,Household,26.0,696.08,91.32,True,In-store
+7,Rawalpindi,2024-05-28,1157,Snacks,3.0,1252.1,30.95,False,Online
+6,Karachi,2024-05-29,1289,Bakery,41.0,364.48,82.67,True,In-store
+8,Karachi,2024-05-30,1500,Household,42.0,1806.7,15.32,False,Online
+9,Rawalpindi,2024-05-31,1478,Bakery,14.0,1675.73,90.9,True,In-store
+5,Rawalpindi,2024-06-01,1231,Produce,11.0,703.31,68.57,False,Online
+1,Islamabad,2024-06-02,1411,Bakery,111.0,1910.32,88.68,True,In-store
+19,Lahore,2024-06-03,1420,Beverages,12.0,1667.88,10.02,True,In-store
+10,Rawalpindi,2024-06-04,1157,Dairy,23.0,1365.98,25.22,True,In-store
+12,Islamabad,2024-06-05,1038,Snacks,12.0,331.35,45.08,True,Online
+15,Islamabad,2024-06-06,1441,Dairy,,1008.64,44.16,True,Online
+9,Lahore,2024-06-07,1097,Bakery,25.0,1061.6,30.41,True,In-store
+20,Karachi,2024-06-08,1485,Produce,45.0,541.85,44.35,True,In-store
+17,Rawalpindi,2024-06-09,1411,Snacks,19.0,251.93,21.6,False,In-store
+17,Lahore,2024-06-10,1439,Bakery,46.0,1575.77,47.15,False,Online
+20,Rawalpindi,2024-06-11,1289,Household,36.0,331.87,82.21,False,In-store
+12,Islamabad,2024-06-12,1254,Frozen Foods,,1229.15,53.12,False,In-store
+7,Islamabad,2024-06-13,1196,Bakery,8.0,1879.25,11.62,False,In-store
+2,Karachi,2024-06-14,1086,Dairy,29.0,1764.6,47.93,True,In-store
+3,Islamabad,2024-06-15,1322,Snacks,32.0,627.73,12.45,True,Online
+17,Islamabad,2024-06-16,1010,Dairy,44.0,1717.75,96.96,True,Online
+5,Lahore,2024-06-17,1005,Snacks,18.0,100.63,21.47,True,In-store
+17,Rawalpindi,2024-06-18,1123,Bakery,6.0,133.61,73.69,True,In-store
+17,Rawalpindi,2024-06-19,1330,Beverages,18.0,1244.85,97.55,False,Online
+17,Lahore,2024-06-20,1353,Household,19.0,793.12,84.34,False,Online
+2,Karachi,2024-06-21,1118,Bakery,22.0,834.28,72.94,False,In-store
+2,Rawalpindi,2024-06-22,1294,Dairy,37.0,1172.44,85.55,False,Online
+5,Islamabad,2024-06-23,1397,Frozen Foods,32.0,464.39,98.36,True,Online
+1,Rawalpindi,2024-06-24,1159,Frozen Foods,41.0,502.34,65.92,True,In-store
+1,Islamabad,2024-06-25,1303,Produce,3.0,1020.74,60.33,True,Online
+19,Karachi,2024-06-26,1228,Snacks,28.0,1533.08,66.54,False,Online
+2,Lahore,2024-06-27,1365,Dairy,10.0,1277.05,57.94,True,In-store
+12,Rawalpindi,2024-06-28,1216,Produce,35.0,,67.16,False,In-store
+6,Lahore,2024-06-29,1436,Dairy,29.0,917.64,50.49,True,Online
+4,Rawalpindi,2024-06-30,1184,Snacks,15.0,424.26,29.66,True,In-store
+11,Islamabad,2024-07-01,1015,Bakery,33.0,241.8,20.82,False,Online
+17,Lahore,2024-07-02,1157,Bakery,7.0,1587.12,16.15,True,In-store
+6,Rawalpindi,2024-07-03,1136,Frozen Foods,12.0,604.24,33.7,True,Online
+5,Islamabad,2024-07-04,1261,Bakery,49.0,437.76,14.15,False,In-store
+20,Lahore,2024-07-05,1157,Bakery,30.0,1414.07,61.05,True,Online
+2,Lahore,2024-07-06,1047,Beverages,21.0,1274.3,35.54,False,Online
+6,Rawalpindi,2024-07-07,1324,Frozen Foods,31.0,1303.06,84.21,True,Online
+11,Rawalpindi,2024-07-08,1332,Produce,24.0,534.9,16.68,True,In-store
+16,Rawalpindi,2024-07-09,1173,Household,20.0,542.03,30.37,True,In-store
+16,Islamabad,2024-07-10,1130,Beverages,37.0,519.52,75.72,True,Online
+1,Rawalpindi,2024-07-11,1411,Produce,4.0,430.13,63.89,True,Online
+9,Lahore,2024-07-12,1095,Snacks,,1345.87,15.8,True,In-store
+6,Lahore,2024-07-13,1115,Beverages,,1711.23,88.95,True,In-store
+16,Rawalpindi,2024-07-14,1243,Produce,20.0,1476.2,88.95,True,In-store
+3,Rawalpindi,2024-07-15,1420,Snacks,24.0,1604.98,39.74,False,In-store
+20,Karachi,2024-07-16,1292,Frozen Foods,49.0,,40.64,False,In-store
+4,Lahore,2024-07-17,1282,Household,32.0,1342.74,99.01,True,In-store
+19,Islamabad,2024-07-18,1299,Snacks,41.0,773.05,66.36,True,Online
+3,Karachi,2024-07-19,1283,Bakery,36.0,1098.46,57.82,False,In-store
+19,Rawalpindi,2024-07-20,1069,Dairy,34.0,1015.11,85.43,True,Online
+20,Rawalpindi,2024-07-21,1148,Snacks,36.0,436.09,35.68,True,In-store
+7,Lahore,2024-07-22,1011,Snacks,2.0,835.45,48.63,False,In-store
+20,Rawalpindi,2024-07-23,1254,Household,15.0,1931.26,34.1,True,Online
+9,Islamabad,2024-07-24,1330,Dairy,34.0,572.3,81.02,True,Online
+1,Lahore,2024-07-25,1360,Bakery,36.0,354.23,61.6,False,In-store
+8,Rawalpindi,2024-07-26,1038,Produce,6.0,895.3,69.29,True,Online
+7,Lahore,2024-07-27,1134,Produce,39.0,1601.64,32.71,True,Online
+18,Rawalpindi,2024-07-28,1200,Snacks,42.0,1206.08,29.82,False,Online
+8,Rawalpindi,2024-07-29,1023,Dairy,12.0,1393.85,53.95,True,Online
+1,Rawalpindi,2024-07-30,1303,Dairy,3.0,460.42,76.38,False,In-store
+11,Islamabad,2024-07-31,1346,Bakery,45.0,1276.0,57.27,True,Online
+18,Islamabad,2024-08-01,1302,Household,18.0,714.65,12.94,True,In-store
+10,Lahore,2024-08-02,1363,Frozen Foods,40.0,1685.18,88.17,False,In-store
+3,Rawalpindi,2024-08-03,1396,Produce,21.0,1295.67,15.82,False,In-store
+7,Rawalpindi,2024-08-04,1218,Household,15.0,477.83,96.02,True,In-store
+16,Islamabad,2024-08-05,1141,Beverages,33.0,222.77,12.26,False,Online
+16,Rawalpindi,2024-08-06,1104,Produce,35.0,181.0,72.5,False,Online
+20,Islamabad,2024-08-07,1446,Household,26.0,,17.4,True,In-store
+17,Rawalpindi,2024-08-08,1210,Produce,8.0,605.12,91.96,True,In-store
+2,Lahore,2024-08-09,1473,Frozen Foods,36.0,,51.8,True,In-store
+1,Rawalpindi,2024-08-10,1481,Beverages,48.0,1048.73,22.38,False,In-store
+16,Rawalpindi,2024-08-11,1111,Frozen Foods,30.0,605.44,40.67,False,Online
+12,Karachi,2024-08-12,1104,Bakery,23.0,383.55,24.83,False,In-store
+5,Islamabad,2024-08-13,1316,Beverages,42.0,341.68,25.35,False,Online
+5,Rawalpindi,2024-08-14,1171,Snacks,44.0,1742.85,95.33,True,In-store
+9,Rawalpindi,2024-08-15,1460,Household,14.0,562.61,50.07,False,In-store
+9,Karachi,2024-08-16,1492,Beverages,14.0,1338.25,80.99,True,In-store
+3,Karachi,2024-08-17,1356,Bakery,2.0,1640.3,67.56,False,In-store
+19,Islamabad,2024-08-18,1496,Bakery,37.0,1266.75,70.88,True,Online
+16,Karachi,2024-08-19,1324,Frozen Foods,5.0,1733.17,21.85,True,Online
+16,Lahore,2024-08-20,1133,Produce,38.0,845.55,31.08,True,Online
+3,Karachi,2024-08-21,1376,Beverages,45.0,1916.82,80.81,False,In-store
+20,Lahore,2024-08-22,1293,Household,41.0,352.98,97.37,True,In-store
+1,Islamabad,2024-08-23,1328,Beverages,47.0,294.08,33.64,True,Online
+20,Islamabad,2024-08-24,1127,Dairy,14.0,1351.52,34.44,False,Online
+11,Islamabad,2024-08-25,1106,Produce,39.0,1891.38,52.56,True,In-store
+17,Islamabad,2024-08-26,1497,Household,25.0,1636.88,98.55,False,In-store
+8,Islamabad,2024-08-27,1092,Household,20.0,245.19,34.21,False,Online
+4,Lahore,2024-08-28,1287,Snacks,2.0,630.8,46.63,True,In-store
+6,Lahore,2024-08-29,1378,Frozen Foods,39.0,1867.61,90.23,True,In-store
+8,Islamabad,2024-08-30,1393,Snacks,6.0,580.81,10.26,False,Online
+20,Karachi,2024-08-31,1051,Household,17.0,1584.22,13.58,True,In-store
+3,Rawalpindi,2024-09-01,1029,Produce,25.0,1667.75,64.37,False,Online
+16,Islamabad,2024-09-02,1462,Beverages,28.0,1041.36,91.66,False,In-store
+3,Karachi,2024-09-03,1296,Beverages,2.0,834.06,31.5,False,Online
+18,Rawalpindi,2024-09-04,1297,Produce,35.0,955.24,52.27,True,In-store
+14,Islamabad,2024-09-05,1214,Household,37.0,531.23,50.54,False,Online
+18,Islamabad,2024-09-06,1267,Bakery,5.0,1789.84,52.57,True,Online
+2,Lahore,2024-09-07,1407,Beverages,1.0,956.18,66.03,True,Online
+3,Rawalpindi,2024-09-08,1257,Bakery,40.0,1776.67,52.28,True,Online
+16,Rawalpindi,2024-09-09,1302,Beverages,12.0,,50.27,True,In-store
+9,Karachi,2024-09-10,1101,Beverages,36.0,1977.72,52.69,False,In-store
+4,Lahore,2024-09-11,1405,Frozen Foods,45.0,942.22,63.18,True,Online
+1,Lahore,2024-09-12,1346,Frozen Foods,23.0,190.88,58.33,False,In-store
+4,Lahore,2024-09-13,1110,Dairy,47.0,172.24,86.87,False,In-store
+1,Lahore,2024-09-14,1420,Snacks,31.0,1517.79,14.45,True,In-store
+14,Rawalpindi,2024-09-15,1182,Produce,11.0,1352.17,85.0,False,In-store
+16,Rawalpindi,2024-09-16,1471,Produce,10.0,1624.05,85.95,False,In-store
+20,Islamabad,2024-09-17,1313,Produce,3.0,300.2,35.64,True,Online
+8,Islamabad,2024-09-18,1001,Dairy,14.0,167.58,51.66,False,Online
+7,Lahore,2024-09-19,1319,Frozen Foods,,1066.3,49.47,False,Online
+3,Lahore,2024-09-20,1438,Household,10.0,836.43,29.67,False,Online
+17,Lahore,2024-09-21,1055,Bakery,29.0,977.7,45.71,False,In-store
+1,Islamabad,2024-09-22,1371,Bakery,10.0,1984.02,13.99,True,In-store
+16,Karachi,2024-09-23,1424,Household,12.0,1944.42,35.0,False,Online
+12,Karachi,2024-09-24,1399,Dairy,30.0,1890.4,83.5,False,In-store
+19,Islamabad,2024-09-25,1149,Household,41.0,1589.3,35.61,False,In-store
+14,Islamabad,2024-09-26,1431,Produce,,,83.64,False,Online
+6,Islamabad,2024-09-27,1457,Snacks,5.0,883.05,57.84,True,In-store
+6,Islamabad,2024-09-28,1309,Beverages,20.0,1144.27,89.19,False,Online
+13,Islamabad,2024-09-29,1137,Bakery,8.0,1678.02,61.73,True,Online
+19,Islamabad,2024-09-30,1202,Frozen Foods,43.0,230.55,12.67,False,In-store
+8,Lahore,2024-10-01,1436,Frozen Foods,,906.16,70.79,True,In-store
+2,Lahore,2024-10-02,1313,Dairy,1.0,256.97,14.04,True,Online
+1,Lahore,2024-10-03,1117,Frozen Foods,20.0,1077.85,50.55,True,Online
+15,Lahore,2024-10-04,1154,Produce,28.0,1807.91,93.65,True,In-store
+1,Islamabad,2024-10-05,1425,Bakery,43.0,1586.72,24.87,True,Online
+5,Karachi,2024-10-06,1291,Household,37.0,532.9,45.09,False,Online
+16,Rawalpindi,2024-10-07,1063,Produce,47.0,1954.38,75.69,False,Online
+19,Islamabad,2024-10-08,1244,Dairy,37.0,1367.97,89.4,False,In-store
+4,Rawalpindi,2024-10-09,1025,Produce,12.0,119.81,70.38,True,Online
+3,Karachi,2024-10-10,1090,Household,37.0,585.29,33.24,False,In-store
+17,Lahore,2024-10-11,1075,Snacks,49.0,595.36,70.71,True,Online
+17,Karachi,2024-10-12,1294,Dairy,49.0,231.58,36.71,True,In-store
+12,Islamabad,2024-10-13,1386,Snacks,44.0,1923.67,74.66,False,Online
+14,Lahore,2024-10-14,1391,Beverages,28.0,1008.69,95.86,False,In-store
+6,Islamabad,2024-10-15,1210,Snacks,47.0,1802.05,74.93,True,In-store
+3,Lahore,2024-10-16,1475,Beverages,15.0,712.21,87.66,True,In-store
+9,Rawalpindi,2024-10-17,1418,Beverages,6.0,337.94,10.19,False,Online
+5,Rawalpindi,2024-10-18,1347,Snacks,186.0,1001.24,74.58,False,Online
+17,Rawalpindi,2024-10-19,1017,Dairy,20.0,316.52,84.66,False,Online
+14,Karachi,2024-10-20,1128,Household,14.0,1023.43,13.65,False,In-store
+3,Islamabad,2024-10-21,1427,Produce,2.0,1848.56,88.44,True,Online
+1,Karachi,2024-10-22,1443,Produce,9.0,1089.46,33.1,False,In-store
+20,Rawalpindi,2024-10-23,1364,Household,37.0,1271.35,69.88,False,Online
+1,Islamabad,2024-10-24,1251,Bakery,20.0,397.61,82.03,False,In-store
+3,Rawalpindi,2024-10-25,1179,Bakery,26.0,183.1,69.64,True,In-store
+18,Karachi,2024-10-26,1182,Beverages,29.0,310.54,18.31,True,In-store
+10,Karachi,2024-10-27,1152,Beverages,1.0,1237.21,63.67,True,Online
+3,Karachi,2024-10-28,1025,Dairy,35.0,280.52,59.46,True,Online
+8,Rawalpindi,2024-10-29,1455,Frozen Foods,6.0,814.39,91.03,False,Online
+14,Islamabad,2024-10-30,1180,Snacks,37.0,1145.17,46.38,True,In-store
+18,Islamabad,2024-10-31,1198,Beverages,5.0,838.44,38.9,False,In-store
+15,Rawalpindi,2024-11-01,1344,Produce,33.0,,77.49,False,Online
+2,Islamabad,2024-11-02,1161,Dairy,49.0,620.2,47.14,False,Online
+10,Rawalpindi,2024-11-03,1177,Snacks,14.0,1863.8,68.15,False,Online
+2,Islamabad,2024-11-04,1285,Dairy,12.0,1384.37,68.18,True,In-store
+17,Lahore,2024-11-05,1063,Snacks,42.0,1042.49,89.92,True,In-store
+8,Lahore,2024-11-06,1491,Snacks,,124.16,63.88,True,In-store
+1,Karachi,2024-11-07,1150,Household,24.0,1985.59,55.19,False,In-store
+9,Lahore,2024-11-08,1154,Beverages,43.0,1375.76,22.5,False,In-store
+11,Lahore,2024-11-09,1156,Dairy,34.0,702.15,20.42,False,Online
+16,Lahore,2024-11-10,1370,Dairy,25.0,1770.61,23.89,False,In-store
+7,Rawalpindi,2024-11-11,1469,Household,29.0,591.02,25.47,False,In-store
+10,Lahore,2024-11-12,1049,Produce,39.0,1133.63,67.41,True,In-store
+3,Lahore,2024-11-13,1455,Produce,31.0,1308.53,76.69,False,In-store
+18,Karachi,2024-11-14,1337,Bakery,47.0,520.02,57.7,True,In-store
+13,Lahore,2024-11-15,1084,Beverages,43.0,1958.95,84.61,False,Online
+7,Lahore,2024-11-16,1361,Beverages,23.0,1521.56,99.21,False,In-store
+4,Islamabad,2024-11-17,1177,Frozen Foods,44.0,1159.85,83.8,True,In-store
+13,Karachi,2024-11-18,1148,Household,38.0,443.13,72.54,True,In-store
+20,Karachi,2024-11-19,1118,Produce,20.0,202.33,57.92,False,Online
+1,Karachi,2024-11-20,1342,Snacks,23.0,708.11,50.4,False,Online
+8,Karachi,2024-11-21,1476,Dairy,45.0,1531.06,17.6,False,Online
+14,Karachi,2024-11-22,1063,Beverages,16.0,611.73,45.94,False,In-store
+16,Karachi,2024-11-23,1189,Dairy,42.0,1125.16,91.91,True,Online
+14,Rawalpindi,2024-11-24,1360,Dairy,8.0,1483.1,82.72,False,In-store
+12,Lahore,2024-11-25,1049,Frozen Foods,21.0,305.09,29.44,True,In-store
+19,Karachi,2024-11-26,1327,Produce,1.0,1402.07,51.99,False,Online
+15,Lahore,2024-11-27,1257,Beverages,8.0,274.55,83.51,True,In-store
+2,Lahore,2024-11-28,1224,Dairy,29.0,1933.75,16.06,True,In-store
+2,Rawalpindi,2024-11-29,1141,Beverages,32.0,1027.95,44.87,False,In-store
+19,Karachi,2024-11-30,1478,Snacks,38.0,386.28,86.67,True,Online
+17,Islamabad,2024-12-01,1215,Frozen Foods,5.0,750.53,46.35,False,In-store
+20,Rawalpindi,2024-12-02,1435,Snacks,47.0,885.49,16.99,True,In-store
+10,Islamabad,2024-12-03,1379,Beverages,22.0,1540.55,58.83,False,Online
+6,Lahore,2024-12-04,1440,Bakery,186.0,1512.51,87.56,True,In-store
+15,Lahore,2024-12-05,1211,Beverages,34.0,1262.69,63.13,False,In-store
+11,Rawalpindi,2024-12-06,1318,Produce,1.0,301.27,30.37,False,Online
+5,Rawalpindi,2024-12-07,1032,Dairy,26.0,387.98,44.58,True,In-store
+1,Islamabad,2024-12-08,1158,Dairy,43.0,278.14,50.51,True,In-store
+8,Karachi,2024-12-09,1285,Snacks,10.0,1196.63,62.13,True,In-store
+12,Islamabad,2024-12-10,1305,Frozen Foods,30.0,1766.56,78.34,True,In-store
+12,Rawalpindi,2024-12-11,1429,Bakery,18.0,924.22,18.9,False,In-store
+5,Islamabad,2024-12-12,1477,Household,17.0,405.61,90.07,True,Online
+7,Rawalpindi,2024-12-13,1286,Dairy,26.0,1160.28,11.11,False,Online
+4,Islamabad,2024-12-14,1144,Produce,8.0,1642.33,43.3,True,Online
+6,Rawalpindi,2024-12-15,1424,Snacks,47.0,1509.25,12.47,False,Online
+13,Rawalpindi,2024-12-16,1019,Snacks,40.0,1774.76,45.37,False,In-store
+20,Rawalpindi,2024-12-17,1018,Household,49.0,628.01,57.32,False,In-store
+15,Karachi,2024-12-18,1257,Produce,12.0,468.51,56.05,False,In-store
+3,Islamabad,2024-12-19,1078,Frozen Foods,27.0,1771.65,24.91,True,In-store
+8,Islamabad,2024-12-20,1371,Produce,8.0,1349.36,68.12,True,In-store
+20,Islamabad,2024-12-21,1175,Frozen Foods,25.0,690.76,14.03,False,Online
+16,Rawalpindi,2024-12-22,1498,Produce,46.0,1510.46,78.57,True,Online
+13,Islamabad,2024-12-23,1194,Produce,4.0,1648.72,95.2,True,In-store
+18,Islamabad,2024-12-24,1476,Beverages,33.0,1268.46,40.58,False,In-store
+10,Rawalpindi,2024-12-25,1113,Snacks,1.0,1406.98,56.55,True,In-store
+19,Lahore,2024-12-26,1114,Produce,19.0,812.99,44.1,True,Online
+17,Rawalpindi,2024-12-27,1222,Household,31.0,1123.52,10.6,True,In-store
+19,Islamabad,2024-12-28,1166,Produce,16.0,1095.9,44.73,False,In-store
+5,Rawalpindi,2024-12-29,1435,Dairy,14.0,1711.29,81.25,True,In-store
+9,Lahore,2024-12-30,1319,Snacks,48.0,1695.93,63.64,False,Online
+12,Rawalpindi,2024-12-31,1132,Dairy,5.0,1682.09,19.11,True,In-store
+1,Islamabad,2025-01-01,1385,Snacks,,120.96,86.24,True,Online
+1,Lahore,2025-01-02,1264,Dairy,26.0,1524.14,57.8,True,Online
+15,Karachi,2025-01-03,1413,Produce,28.0,1541.49,85.76,False,Online
+2,Islamabad,2025-01-04,1055,Produce,2.0,1388.92,62.22,False,Online
+16,Lahore,2025-01-05,1359,Beverages,6.0,1536.9,60.37,True,Online
+8,Lahore,2025-01-06,1131,Household,9.0,1699.74,19.47,False,Online
+13,Karachi,2025-01-07,1288,Dairy,33.0,993.61,25.06,True,In-store
+1,Rawalpindi,2025-01-08,1266,Frozen Foods,41.0,1053.9,97.48,False,In-store
+16,Rawalpindi,2025-01-09,1458,Beverages,25.0,336.96,30.56,False,In-store
+7,Islamabad,2025-01-10,1467,Dairy,48.0,832.21,97.97,True,Online
+5,Karachi,2025-01-11,1366,Dairy,13.0,1322.39,57.87,True,In-store
+3,Rawalpindi,2025-01-12,1162,Beverages,9.0,,22.22,True,Online
+12,Karachi,2025-01-13,1380,Produce,13.0,512.7,18.94,True,Online
+16,Rawalpindi,2025-01-14,1481,Dairy,31.0,361.86,28.8,False,Online
+19,Lahore,2025-01-15,1087,Produce,41.0,1359.78,93.31,False,In-store
+5,Rawalpindi,2025-01-16,1055,Beverages,11.0,103.57,47.27,False,Online
+14,Karachi,2025-01-17,1476,Produce,4.0,438.91,45.59,True,Online
+5,Lahore,2025-01-18,1288,Snacks,34.0,,38.19,True,In-store
+15,Lahore,2025-01-19,1178,Frozen Foods,38.0,417.08,23.24,False,In-store
+17,Lahore,2025-01-20,1391,Bakery,46.0,444.51,53.91,True,Online
+14,Karachi,2025-01-21,1349,Dairy,4.0,836.58,21.7,False,Online
+20,Islamabad,2025-01-22,1008,Household,38.0,864.42,85.19,False,In-store
+5,Islamabad,2025-01-23,1321,Frozen Foods,19.0,1761.1,43.34,False,In-store
+12,Islamabad,2025-01-24,1313,Bakery,6.0,1069.21,43.73,False,In-store
+16,Karachi,2025-01-25,1247,Produce,34.0,1474.47,52.66,False,Online
+16,Lahore,2025-01-26,1323,Dairy,18.0,297.86,49.97,True,In-store
+7,Islamabad,2025-01-27,1472,Produce,13.0,528.33,99.54,True,In-store
+4,Karachi,2025-01-28,1471,Snacks,41.0,1435.59,59.08,True,In-store
+1,Islamabad,2025-01-29,1443,Beverages,23.0,200.33,17.94,False,Online
+5,Rawalpindi,2025-01-30,1255,Dairy,19.0,1024.54,64.62,False,In-store
+10,Islamabad,2025-01-31,1328,Bakery,45.0,1238.8,23.64,False,In-store
+5,Islamabad,2025-02-01,1054,Bakery,11.0,1244.08,12.78,False,In-store
+4,Lahore,2025-02-02,1249,Snacks,1.0,143.57,97.37,True,In-store
+2,Karachi,2025-02-03,1239,Snacks,24.0,712.01,79.62,True,In-store
+20,Lahore,2025-02-04,1229,Dairy,7.0,1309.33,98.21,False,Online
+10,Lahore,2025-02-05,1067,Produce,25.0,383.1,53.01,False,Online
+19,Lahore,2025-02-06,1051,Household,21.0,1421.29,57.9,False,Online
+1,Lahore,2025-02-07,1097,Bakery,15.0,1517.26,25.15,True,In-store
+5,Lahore,2025-02-08,1092,Bakery,1.0,1965.74,32.22,True,Online
+13,Islamabad,2025-02-09,1495,Snacks,12.0,498.7,85.47,True,Online
+4,Lahore,2025-02-10,1264,Frozen Foods,7.0,1667.75,42.06,False,Online
+16,Lahore,2025-02-11,1418,Snacks,15.0,1088.56,84.41,False,In-store
+16,Karachi,2025-02-12,1291,Household,21.0,809.58,73.81,True,In-store
+2,Rawalpindi,2025-02-13,1096,Produce,19.0,332.52,25.95,False,Online
+17,Islamabad,2025-02-14,1088,Produce,29.0,1497.46,55.67,True,Online
+20,Islamabad,2025-02-15,1078,Frozen Foods,25.0,548.13,70.96,False,In-store
+12,Islamabad,2025-02-16,1288,Bakery,33.0,805.7,31.15,True,In-store
+18,Lahore,2025-02-17,1120,Snacks,49.0,218.83,84.76,False,Online
+3,Lahore,2025-02-18,1302,Produce,32.0,1622.6,59.03,True,In-store
+1,Lahore,2025-02-19,1491,Household,49.0,1556.52,24.87,True,Online
+1,Karachi,2025-02-20,1400,Dairy,35.0,1493.87,62.47,True,In-store
+19,Rawalpindi,2025-02-21,1452,Beverages,44.0,668.94,99.97,True,Online
+11,Lahore,2025-02-22,1500,Beverages,38.0,429.61,23.55,True,Online
+5,Rawalpindi,2025-02-23,1165,Beverages,26.0,1311.35,83.51,True,In-store
+12,Karachi,2025-02-24,1182,Bakery,11.0,1042.72,28.66,False,Online
+3,Islamabad,2025-02-25,1469,Snacks,35.0,438.68,80.41,False,Online
+1,Lahore,2025-02-26,1398,Frozen Foods,8.0,1403.23,76.11,False,Online
+1,Rawalpindi,2025-02-27,1223,Produce,46.0,1983.14,37.04,True,In-store
+8,Rawalpindi,2025-02-28,1311,Dairy,14.0,1519.72,39.32,True,In-store
+10,Lahore,2025-03-01,1432,Household,,1505.97,81.33,False,In-store
+11,Islamabad,2025-03-02,1466,Dairy,2.0,1905.59,51.53,True,Online
+12,Islamabad,2025-03-03,1007,Household,46.0,485.58,75.77,True,In-store
+13,Islamabad,2025-03-04,1330,Bakery,9.0,1174.54,23.32,True,Online
+12,Karachi,2025-03-05,1263,Snacks,3.0,1961.33,86.73,True,Online
+14,Rawalpindi,2025-03-06,1161,Beverages,21.0,414.06,73.98,True,In-store
+2,Rawalpindi,2025-03-07,1151,Snacks,26.0,1430.48,91.62,False,In-store
+19,Rawalpindi,2025-03-08,1085,Bakery,8.0,1213.04,21.91,False,Online
+18,Karachi,2025-03-09,1147,Frozen Foods,48.0,1214.31,63.37,False,Online
+3,Rawalpindi,2025-03-10,1112,Frozen Foods,2.0,1425.57,63.92,False,In-store
+17,Karachi,2025-03-11,1381,Bakery,6.0,1866.27,41.81,False,In-store
+8,Islamabad,2025-03-12,1403,Household,28.0,1586.91,51.26,True,In-store
+10,Lahore,2025-03-13,1036,Produce,29.0,206.66,13.42,True,Online
+2,Rawalpindi,2025-03-14,1285,Produce,26.0,1720.18,77.13,True,Online
+19,Rawalpindi,2025-03-15,1188,Household,25.0,528.53,59.44,True,Online
+9,Islamabad,2025-03-16,1082,Frozen Foods,12.0,816.14,15.2,False,Online
+7,Lahore,2025-03-17,1002,Frozen Foods,5.0,977.29,71.27,False,Online
+4,Karachi,2025-03-18,1385,Frozen Foods,34.0,1013.72,52.01,False,In-store
+18,Lahore,2025-03-19,1303,Snacks,48.0,926.84,13.1,True,In-store
+13,Islamabad,2025-03-20,1197,Frozen Foods,37.0,1880.97,97.26,False,Online
+11,Islamabad,2025-03-21,1404,Dairy,15.0,1441.44,95.42,True,Online
+4,Lahore,2025-03-22,1011,Beverages,44.0,1299.22,56.16,False,In-store
+4,Karachi,2025-03-23,1234,Frozen Foods,36.0,194.7,18.43,False,In-store
+10,Karachi,2025-03-24,1386,Household,15.0,1817.44,77.92,True,In-store
+5,Rawalpindi,2025-03-25,1195,Beverages,43.0,1827.84,54.27,True,In-store
+9,Karachi,2025-03-26,1471,Snacks,48.0,1582.4,37.22,False,Online
+3,Lahore,2025-03-27,1119,Household,23.0,113.36,54.23,False,In-store
+17,Islamabad,2025-03-28,1396,Beverages,6.0,208.83,57.02,True,Online
+3,Rawalpindi,2025-03-29,1020,Household,46.0,527.93,60.64,False,In-store
+16,Rawalpindi,2025-03-30,1261,Snacks,44.0,349.56,49.71,False,In-store
+4,Islamabad,2025-03-31,1293,Dairy,43.0,857.79,64.52,True,In-store
+18,Karachi,2025-04-01,1422,Snacks,45.0,1852.98,92.69,False,Online
+17,Islamabad,2025-04-02,1256,Snacks,21.0,996.91,42.6,True,Online
+7,Karachi,2025-04-03,1222,Household,23.0,125.46,75.31,False,In-store
+5,Islamabad,2025-04-04,1393,Bakery,43.0,637.22,90.5,True,Online
+12,Lahore,2025-04-05,1226,Produce,16.0,184.73,51.04,False,Online
+17,Karachi,2025-04-06,1053,Frozen Foods,47.0,168.95,49.91,True,In-store
+13,Lahore,2025-04-07,1428,Frozen Foods,15.0,623.87,64.19,False,In-store
+3,Rawalpindi,2025-04-08,1355,Dairy,25.0,623.66,63.23,True,Online
+9,Islamabad,2025-04-09,1500,Dairy,36.0,1595.54,82.59,False,Online
+17,Rawalpindi,2025-04-10,1342,Frozen Foods,11.0,1952.19,52.88,False,Online
+17,Rawalpindi,2025-04-11,1364,Produce,15.0,805.29,99.65,False,In-store
+20,Rawalpindi,2025-04-12,1280,Frozen Foods,4.0,914.89,15.35,False,In-store
+16,Rawalpindi,2025-04-13,1081,Bakery,21.0,1705.1,10.29,False,Online
+13,Islamabad,2025-04-14,1202,Produce,13.0,609.46,67.62,False,In-store
+19,Rawalpindi,2025-04-15,1158,Dairy,22.0,397.13,36.86,False,In-store
+17,Islamabad,2025-04-16,1120,Beverages,19.0,1720.87,31.63,False,Online
+4,Islamabad,2025-04-17,1059,Household,34.0,188.35,38.07,False,Online
+12,Lahore,2025-04-18,1494,Bakery,14.0,1277.43,33.04,True,In-store
+9,Karachi,2025-04-19,1215,Bakery,4.0,1167.79,12.77,True,In-store
+19,Karachi,2025-04-20,1128,Dairy,48.0,757.25,97.44,False,Online
+12,Islamabad,2025-04-21,1224,Dairy,46.0,698.86,29.87,True,In-store
+9,Lahore,2025-04-22,1209,Snacks,27.0,1566.53,76.06,False,In-store
+7,Islamabad,2025-04-23,1370,Bakery,,264.21,78.63,False,Online
+14,Islamabad,2025-04-24,1115,Snacks,47.0,549.89,93.63,True,Online
+20,Islamabad,2025-04-25,1209,Snacks,28.0,1491.65,12.75,False,In-store
+19,Lahore,2025-04-26,1014,Household,35.0,1141.81,88.48,False,In-store
+15,Karachi,2025-04-27,1009,Snacks,8.0,343.18,57.45,True,In-store
+16,Lahore,2025-04-28,1040,Produce,16.0,1776.06,66.93,True,Online
+5,Rawalpindi,2025-04-29,1450,Frozen Foods,42.0,847.55,68.0,False,In-store
+3,Lahore,2025-04-30,1237,Beverages,36.0,1672.95,83.78,True,In-store
+12,Lahore,2025-05-01,1281,Dairy,,1596.65,40.01,True,Online
+20,Lahore,2025-05-02,1359,Produce,18.0,1286.41,75.97,False,Online
+4,Lahore,2025-05-03,1201,Beverages,2.0,1039.51,57.57,True,In-store
+16,Karachi,2025-05-04,1246,Bakery,49.0,1961.15,81.41,True,Online
+7,Rawalpindi,2025-05-05,1278,Bakery,13.0,375.43,99.15,False,Online
+13,Karachi,2025-05-06,1235,Bakery,4.0,1477.8,28.06,True,In-store
+10,Karachi,2025-05-07,1494,Produce,26.0,463.26,99.52,True,Online
+7,Lahore,2025-05-08,1004,Produce,25.0,742.7,18.08,False,Online
+14,Islamabad,2025-05-09,1154,Dairy,30.0,686.53,10.21,False,In-store
+5,Islamabad,2025-05-10,1442,Frozen Foods,11.0,1899.37,13.97,False,Online
+3,Karachi,2025-05-11,1029,Snacks,7.0,1937.98,40.76,True,In-store
+11,Karachi,2025-05-12,1109,Bakery,31.0,447.73,66.96,False,In-store
+11,Lahore,2025-05-13,1098,Household,44.0,141.87,16.21,False,Online
+18,Karachi,2025-05-14,1215,Frozen Foods,,1468.02,10.51,True,Online

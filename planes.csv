@@ -1,0 +1,501 @@
+Airline,Date_of_Journey,Source,Destination,Route,Dep_Time,Arrival_Time,Duration,Total_Stops,Additional_Info,Price
+SpiceJet,01/01/2023,Chennai,Hyderabad,BLR → DEL,0:00:00,0:00:00,4.42,1 stop,No check-in baggage included,3467.16
+Vistara,02/01/2023,Delhi,Hyderabad,CCU → MAA → COK,1:00:00,1:00:00,2.77,non-stop,In-flight meal not included,3432.23
+Jet Airways,03/01/2023,Banglore,Hyderabad,DEL → BOM → COK,2:00:00,2:00:00,5.31,2 stops,In-flight meal not included,5102.66
+Vistara,04/01/2023,Mumbai,Hyderabad,BLR → DEL,3:00:00,3:00:00,2.75,1 stop,In-flight meal not included,13401.24
+Vistara,05/01/2023,Mumbai,Kolkata,DEL → BOM → COK,4:00:00,4:00:00,2.5,2 stops,In-flight meal not included,6389.74
+Air India,06/01/2023,Delhi,Kolkata,BLR → DEL,5:00:00,5:00:00,6.56,2 stops,No info,14405.51
+Jet Airways,07/01/2023,Chennai,Delhi,BLR → DEL,6:00:00,6:00:00,5.71,1 stop,In-flight meal not included,9979.47
+Jet Airways,08/01/2023,Chennai,Cochin,DEL → BOM → COK,7:00:00,7:00:00,7.03,1 stop,No info,8239.37
+Jet Airways,09/01/2023,Banglore,Hyderabad,BLR → DEL,8:00:00,8:00:00,9.37,3 stops,No check-in baggage included,9961.07
+Vistara,10/01/2023,Delhi,Delhi,BLR → DEL,9:00:00,9:00:00,5.79,non-stop,In-flight meal not included,9200.38
+SpiceJet,11/01/2023,Mumbai,Cochin,CCU → MAA → COK,10:00:00,10:00:00,6.23,2 stops,No info,12105.32
+Jet Airways,12/01/2023,Chennai,New Delhi,BLR → DEL,11:00:00,11:00:00,1.81,non-stop,In-flight meal not included,6389.95
+Vistara,13/01/2023,Delhi,Kolkata,BLR → DEL,12:00:00,12:00:00,7.46,1 stop,No check-in baggage included,7236.6
+Air India,14/01/2023,Chennai,Cochin,BLR → DEL,13:00:00,13:00:00,4.6,1 stop,No check-in baggage included,13729.13
+SpiceJet,15/01/2023,Chennai,New Delhi,CCU → MAA → COK,14:00:00,14:00:00,9.79,3 stops,No check-in baggage included,14357.48
+Air India,16/01/2023,Mumbai,Cochin,DEL → BOM → COK,15:00:00,15:00:00,8.41,3 stops,In-flight meal not included,13710.7
+SpiceJet,17/01/2023,Kolkata,Kolkata,CCU → MAA → COK,16:00:00,16:00:00,5.7,non-stop,In-flight meal not included,8033.38
+Vistara,18/01/2023,Banglore,Kolkata,CCU → MAA → COK,17:00:00,17:00:00,2.11,non-stop,No info,12364.39
+IndiGo,19/01/2023,Banglore,Delhi,DEL → BOM → COK,18:00:00,18:00:00,8.73,2 stops,No check-in baggage included,8716.03
+SpiceJet,20/01/2023,Mumbai,Hyderabad,CCU → MAA → COK,19:00:00,19:00:00,8.2,1 stop,In-flight meal not included,8970.48
+Air India,21/01/2023,Chennai,Cochin,DEL → BOM → COK,20:00:00,20:00:00,2.66,non-stop,No check-in baggage included,5456.16
+Vistara,22/01/2023,Delhi,Cochin,CCU → MAA → COK,21:00:00,21:00:00,3.66,1 stop,No check-in baggage included,10093.56
+SpiceJet,23/01/2023,Chennai,New Delhi,DEL → BOM → COK,22:00:00,22:00:00,8.14,1 stop,No info,5233.63
+IndiGo,24/01/2023,Mumbai,Kolkata,BLR → DEL,23:00:00,23:00:00,2.67,4 stops,No info,6978.78
+IndiGo,25/01/2023,Banglore,Cochin,CCU → MAA → COK,0:00:00,0:00:00,9.26,non-stop,No info,13260.36
+Jet Airways,26/01/2023,Chennai,Kolkata,CCU → MAA → COK,1:00:00,1:00:00,4.82,1 stop,No info,5484.91
+Jet Airways,27/01/2023,Banglore,Cochin,CCU → MAA → COK,2:00:00,2:00:00,1.78,1 stop,No check-in baggage included,3853.9
+Air India,28/01/2023,Delhi,Delhi,CCU → MAA → COK,3:00:00,3:00:00,8.34,2 stops,No info,3828.09
+SpiceJet,29/01/2023,Banglore,Hyderabad,BLR → DEL,4:00:00,4:00:00,4.36,1 stop,No info,14289.41
+SpiceJet,30/01/2023,Banglore,Cochin,CCU → MAA → COK,5:00:00,5:00:00,5.74,1 stop,No info,9083.05
+Jet Airways,31/01/2023,Kolkata,Kolkata,BLR → DEL,6:00:00,6:00:00,2.01,non-stop,No info,7912.94
+SpiceJet,01/02/2023,Kolkata,Delhi,BLR → DEL,7:00:00,7:00:00,1.02,2 stops,No check-in baggage included,12730.54
+SpiceJet,02/02/2023,Kolkata,Cochin,BLR → DEL,8:00:00,8:00:00,6.74,1 stop,No info,13029.91
+IndiGo,03/02/2023,Banglore,New Delhi,BLR → DEL,9:00:00,9:00:00,5.64,non-stop,No check-in baggage included,6986.29
+Jet Airways,04/02/2023,Mumbai,Hyderabad,DEL → BOM → COK,10:00:00,10:00:00,6.34,1 stop,In-flight meal not included,11323.42
+Vistara,05/02/2023,Banglore,Cochin,DEL → BOM → COK,11:00:00,11:00:00,8.14,non-stop,No check-in baggage included,12253.47
+Jet Airways,06/02/2023,Mumbai,Delhi,CCU → MAA → COK,12:00:00,12:00:00,6.82,non-stop,No check-in baggage included,10855.81
+Vistara,07/02/2023,Mumbai,New Delhi,DEL → BOM → COK,13:00:00,13:00:00,2.57,2 stops,No info,4819.14
+IndiGo,08/02/2023,Kolkata,Delhi,DEL → BOM → COK,14:00:00,14:00:00,4.25,1 stop,In-flight meal not included,13510.6
+Air India,09/02/2023,Chennai,Delhi,CCU → MAA → COK,15:00:00,15:00:00,9.15,2 stops,In-flight meal not included,9469.13
+SpiceJet,10/02/2023,Delhi,New Delhi,CCU → MAA → COK,16:00:00,16:00:00,7.93,non-stop,In-flight meal not included,6389.67
+IndiGo,11/02/2023,Kolkata,Delhi,CCU → MAA → COK,17:00:00,17:00:00,6.01,2 stops,In-flight meal not included,8102.74
+SpiceJet,12/02/2023,Kolkata,New Delhi,DEL → BOM → COK,18:00:00,18:00:00,3.3,non-stop,No check-in baggage included,3450.85
+Air India,13/02/2023,Chennai,Cochin,DEL → BOM → COK,19:00:00,19:00:00,3.72,1 stop,In-flight meal not included,4534.4
+Air India,14/02/2023,Delhi,New Delhi,CCU → MAA → COK,20:00:00,20:00:00,7.59,3 stops,No check-in baggage included,12186.56
+IndiGo,15/02/2023,Banglore,New Delhi,BLR → DEL,21:00:00,21:00:00,8.66,2 stops,No check-in baggage included,3000.14
+Air India,16/02/2023,Banglore,Hyderabad,CCU → MAA → COK,22:00:00,22:00:00,7.04,1 stop,No check-in baggage included,7998.79
+Vistara,17/02/2023,Kolkata,New Delhi,BLR → DEL,23:00:00,23:00:00,8.29,1 stop,In-flight meal not included,9270.12
+Air India,18/02/2023,Delhi,New Delhi,BLR → DEL,0:00:00,0:00:00,7.9,2 stops,No info,3655.61
+SpiceJet,19/02/2023,Kolkata,Cochin,CCU → MAA → COK,1:00:00,1:00:00,2.35,1 stop,No info,14676.94
+SpiceJet,20/02/2023,Mumbai,Hyderabad,CCU → MAA → COK,2:00:00,2:00:00,4.82,2 stops,In-flight meal not included,5713.5
+SpiceJet,21/02/2023,Kolkata,Kolkata,CCU → MAA → COK,3:00:00,3:00:00,2.38,2 stops,No info,6650.38
+SpiceJet,22/02/2023,Kolkata,Cochin,DEL → BOM → COK,4:00:00,4:00:00,3.12,non-stop,No info,6647.31
+Vistara,23/02/2023,Banglore,Cochin,BLR → DEL,5:00:00,5:00:00,8.82,non-stop,No check-in baggage included,5765
+Jet Airways,24/02/2023,Banglore,Kolkata,DEL → BOM → COK,6:00:00,6:00:00,5.26,1 stop,No check-in baggage included,3017.69
+IndiGo,25/02/2023,Banglore,New Delhi,DEL → BOM → COK,7:00:00,7:00:00,5.82,non-stop,In-flight meal not included,11752.14
+SpiceJet,26/02/2023,Mumbai,Delhi,CCU → MAA → COK,8:00:00,8:00:00,2.61,non-stop,In-flight meal not included,14602.15
+Air India,27/02/2023,Banglore,Hyderabad,DEL → BOM → COK,9:00:00,9:00:00,3.81,3 stops,No info,5691.52
+SpiceJet,28/02/2023,Delhi,Delhi,CCU → MAA → COK,10:00:00,10:00:00,3.07,1 stop,No check-in baggage included,10956.57
+Air India,01/03/2023,Chennai,Kolkata,BLR → DEL,11:00:00,11:00:00,2.86,2 stops,In-flight meal not included,11902.76
+Air India,02/03/2023,Delhi,Cochin,CCU → MAA → COK,12:00:00,12:00:00,6.74,1 stop,In-flight meal not included,13181.1
+SpiceJet,03/03/2023,Delhi,Cochin,DEL → BOM → COK,13:00:00,13:00:00,3.31,1 stop,In-flight meal not included,8071.55
+Vistara,04/03/2023,Banglore,Hyderabad,DEL → BOM → COK,14:00:00,14:00:00,6.69,non-stop,In-flight meal not included,6635.17
+Air India,05/03/2023,Chennai,Cochin,CCU → MAA → COK,15:00:00,15:00:00,1.53,1 stop,In-flight meal not included,6903.54
+Air India,06/03/2023,Chennai,Cochin,CCU → MAA → COK,16:00:00,16:00:00,2.28,non-stop,In-flight meal not included,11551.46
+SpiceJet,07/03/2023,Chennai,Hyderabad,DEL → BOM → COK,17:00:00,17:00:00,3.47,1 stop,No info,12801.35
+Air India,08/03/2023,Mumbai,Hyderabad,BLR → DEL,18:00:00,18:00:00,6.37,2 stops,No check-in baggage included,5179.37
+Air India,09/03/2023,Banglore,Kolkata,BLR → DEL,19:00:00,19:00:00,7.08,1 stop,No check-in baggage included,7451.29
+SpiceJet,10/03/2023,Chennai,Cochin,CCU → MAA → COK,20:00:00,20:00:00,4.98,1 stop,In-flight meal not included,13823.28
+SpiceJet,11/03/2023,Mumbai,Cochin,BLR → DEL,21:00:00,21:00:00,5.01,1 stop,No check-in baggage included,12680.32
+IndiGo,12/03/2023,Kolkata,Kolkata,DEL → BOM → COK,22:00:00,22:00:00,7.52,non-stop,No check-in baggage included,14818.3
+Vistara,13/03/2023,Kolkata,New Delhi,CCU → MAA → COK,23:00:00,23:00:00,1.14,1 stop,No check-in baggage included,12050.98
+Vistara,14/03/2023,Mumbai,New Delhi,DEL → BOM → COK,0:00:00,0:00:00,4.07,non-stop,In-flight meal not included,7718.34
+Air India,15/03/2023,Mumbai,New Delhi,DEL → BOM → COK,1:00:00,1:00:00,8.37,non-stop,In-flight meal not included,10087.65
+Vistara,16/03/2023,Banglore,Kolkata,BLR → DEL,2:00:00,2:00:00,6.43,non-stop,No check-in baggage included,10932.17
+Air India,17/03/2023,Banglore,Cochin,CCU → MAA → COK,3:00:00,3:00:00,4.04,1 stop,No check-in baggage included,3941.47
+IndiGo,18/03/2023,Kolkata,Kolkata,CCU → MAA → COK,4:00:00,4:00:00,9.15,2 stops,In-flight meal not included,9533.96
+SpiceJet,19/03/2023,Chennai,Kolkata,BLR → DEL,5:00:00,5:00:00,7.95,non-stop,No info,11511.85
+SpiceJet,20/03/2023,Kolkata,New Delhi,DEL → BOM → COK,6:00:00,6:00:00,3.38,1 stop,No check-in baggage included,5007.86
+SpiceJet,21/03/2023,Chennai,Delhi,DEL → BOM → COK,7:00:00,7:00:00,6.81,1 stop,No info,12367.58
+Vistara,22/03/2023,Chennai,Cochin,DEL → BOM → COK,8:00:00,8:00:00,6.36,non-stop,No check-in baggage included,10005.27
+IndiGo,23/03/2023,Banglore,New Delhi,DEL → BOM → COK,9:00:00,9:00:00,4.61,2 stops,No info,14426.66
+Vistara,24/03/2023,Delhi,Delhi,CCU → MAA → COK,10:00:00,10:00:00,4.3,1 stop,No info,3509.07
+Vistara,25/03/2023,Delhi,Delhi,CCU → MAA → COK,11:00:00,11:00:00,4.09,1 stop,No info,6183.91
+IndiGo,26/03/2023,Mumbai,Hyderabad,BLR → DEL,12:00:00,12:00:00,6.55,1 stop,In-flight meal not included,10218.65
+IndiGo,27/03/2023,Banglore,Cochin,BLR → DEL,13:00:00,13:00:00,4.98,non-stop,No info,6558.72
+IndiGo,28/03/2023,Chennai,Delhi,CCU → MAA → COK,14:00:00,14:00:00,8.49,1 stop,No info,11573.09
+IndiGo,29/03/2023,Delhi,New Delhi,CCU → MAA → COK,15:00:00,15:00:00,7.03,1 stop,No info,12108.06
+SpiceJet,30/03/2023,Chennai,Hyderabad,DEL → BOM → COK,16:00:00,16:00:00,1.63,2 stops,No check-in baggage included,4230.19
+Jet Airways,31/03/2023,Delhi,Cochin,DEL → BOM → COK,17:00:00,17:00:00,6.76,non-stop,No info,9166.25
+Jet Airways,01/04/2023,Delhi,Kolkata,BLR → DEL,18:00:00,18:00:00,3.44,1 stop,No check-in baggage included,9106.69
+IndiGo,02/04/2023,Delhi,New Delhi,CCU → MAA → COK,19:00:00,19:00:00,6.34,1 stop,No info,7431.37
+Jet Airways,03/04/2023,Banglore,Delhi,BLR → DEL,20:00:00,20:00:00,7.12,non-stop,No info,14195.1
+Jet Airways,04/04/2023,Kolkata,Delhi,CCU → MAA → COK,21:00:00,21:00:00,3.08,1 stop,In-flight meal not included,12930.08
+IndiGo,05/04/2023,Chennai,New Delhi,DEL → BOM → COK,22:00:00,22:00:00,5.11,2 stops,No check-in baggage included,11366.51
+Jet Airways,06/04/2023,Banglore,Delhi,BLR → DEL,23:00:00,23:00:00,2.71,2 stops,No info,11571.92
+Vistara,07/04/2023,Banglore,Hyderabad,BLR → DEL,0:00:00,0:00:00,1.47,1 stop,No check-in baggage included,8540.59
+Air India,08/04/2023,Banglore,Cochin,CCU → MAA → COK,1:00:00,1:00:00,4.41,2 stops,No check-in baggage included,14051.93
+Air India,09/04/2023,Banglore,Hyderabad,DEL → BOM → COK,2:00:00,2:00:00,4.27,3 stops,In-flight meal not included,11335.15
+IndiGo,10/04/2023,Banglore,Delhi,BLR → DEL,3:00:00,3:00:00,9.96,2 stops,In-flight meal not included,11747.77
+SpiceJet,11/04/2023,Mumbai,Kolkata,DEL → BOM → COK,4:00:00,4:00:00,5.02,non-stop,In-flight meal not included,13340.29
+IndiGo,12/04/2023,Chennai,Cochin,BLR → DEL,5:00:00,5:00:00,4,2 stops,In-flight meal not included,6288.86
+SpiceJet,13/04/2023,Banglore,Cochin,DEL → BOM → COK,6:00:00,6:00:00,6.22,1 stop,In-flight meal not included,12684.85
+Air India,14/04/2023,Chennai,New Delhi,CCU → MAA → COK,7:00:00,7:00:00,1.8,4 stops,In-flight meal not included,5342.89
+IndiGo,15/04/2023,Mumbai,New Delhi,BLR → DEL,8:00:00,8:00:00,9.65,1 stop,In-flight meal not included,7144.1
+Vistara,16/04/2023,Mumbai,Kolkata,BLR → DEL,9:00:00,9:00:00,6.71,non-stop,In-flight meal not included,7027.33
+Jet Airways,17/04/2023,Chennai,Cochin,DEL → BOM → COK,10:00:00,10:00:00,7.79,2 stops,No info,14742.31
+SpiceJet,18/04/2023,Delhi,Kolkata,DEL → BOM → COK,11:00:00,11:00:00,2.53,1 stop,No check-in baggage included,13278.45
+Jet Airways,19/04/2023,Kolkata,New Delhi,BLR → DEL,12:00:00,12:00:00,4.69,4 stops,In-flight meal not included,11414.04
+Jet Airways,20/04/2023,Delhi,New Delhi,CCU → MAA → COK,13:00:00,13:00:00,4.8,3 stops,In-flight meal not included,11724.68
+IndiGo,21/04/2023,Delhi,Cochin,DEL → BOM → COK,14:00:00,14:00:00,8.4,1 stop,No check-in baggage included,9744.87
+Jet Airways,22/04/2023,Delhi,Hyderabad,DEL → BOM → COK,15:00:00,15:00:00,1.01,non-stop,No info,14365.09
+Vistara,23/04/2023,Banglore,Delhi,DEL → BOM → COK,16:00:00,16:00:00,3.71,1 stop,No check-in baggage included,8955.11
+Jet Airways,24/04/2023,Mumbai,New Delhi,BLR → DEL,17:00:00,17:00:00,9.83,non-stop,No check-in baggage included,7566.21
+IndiGo,25/04/2023,Delhi,New Delhi,BLR → DEL,18:00:00,18:00:00,5.27,non-stop,In-flight meal not included,4956.42
+Vistara,26/04/2023,Mumbai,Hyderabad,BLR → DEL,19:00:00,19:00:00,4.44,2 stops,No check-in baggage included,12434.47
+Air India,27/04/2023,Chennai,Hyderabad,BLR → DEL,20:00:00,20:00:00,2.08,non-stop,No check-in baggage included,11813.33
+Jet Airways,28/04/2023,Kolkata,Kolkata,CCU → MAA → COK,21:00:00,21:00:00,9.77,1 stop,In-flight meal not included,7612.26
+IndiGo,29/04/2023,Chennai,Kolkata,CCU → MAA → COK,22:00:00,22:00:00,1.18,3 stops,In-flight meal not included,3302.32
+Air India,30/04/2023,Chennai,Delhi,BLR → DEL,23:00:00,23:00:00,7.63,1 stop,In-flight meal not included,13067.97
+Air India,01/05/2023,Banglore,Delhi,CCU → MAA → COK,0:00:00,0:00:00,7.92,non-stop,In-flight meal not included,3137.02
+SpiceJet,02/05/2023,Kolkata,Cochin,DEL → BOM → COK,1:00:00,1:00:00,3.19,3 stops,No check-in baggage included,11444.4
+Vistara,03/05/2023,Chennai,Kolkata,DEL → BOM → COK,2:00:00,2:00:00,7.04,non-stop,No check-in baggage included,14643.09
+Jet Airways,04/05/2023,Chennai,New Delhi,DEL → BOM → COK,3:00:00,3:00:00,1.84,2 stops,No info,8251.94
+IndiGo,05/05/2023,Kolkata,Kolkata,BLR → DEL,4:00:00,4:00:00,3.31,4 stops,No info,5819.68
+SpiceJet,06/05/2023,Kolkata,New Delhi,DEL → BOM → COK,5:00:00,5:00:00,8.09,3 stops,No check-in baggage included,11458.45
+Vistara,07/05/2023,Chennai,Hyderabad,CCU → MAA → COK,6:00:00,6:00:00,8.78,1 stop,No info,12805.54
+SpiceJet,08/05/2023,Kolkata,Kolkata,BLR → DEL,7:00:00,7:00:00,6.48,1 stop,No check-in baggage included,9557.16
+Vistara,09/05/2023,Chennai,Hyderabad,CCU → MAA → COK,8:00:00,8:00:00,5.56,non-stop,No info,14604.42
+Vistara,10/05/2023,Chennai,Delhi,DEL → BOM → COK,9:00:00,9:00:00,2.43,2 stops,In-flight meal not included,3620.02
+Jet Airways,11/05/2023,Banglore,Delhi,DEL → BOM → COK,10:00:00,10:00:00,1.57,2 stops,No info,9057.55
+Vistara,12/05/2023,Delhi,Cochin,DEL → BOM → COK,11:00:00,11:00:00,2.06,1 stop,In-flight meal not included,11621.45
+SpiceJet,13/05/2023,Chennai,Kolkata,BLR → DEL,12:00:00,12:00:00,3.05,non-stop,In-flight meal not included,13351.69
+Vistara,14/05/2023,Mumbai,Hyderabad,CCU → MAA → COK,13:00:00,13:00:00,4.08,non-stop,In-flight meal not included,5151.07
+Jet Airways,15/05/2023,Delhi,New Delhi,BLR → DEL,14:00:00,14:00:00,4.43,non-stop,In-flight meal not included,12600.04
+Jet Airways,16/05/2023,Delhi,Delhi,BLR → DEL,15:00:00,15:00:00,4.12,2 stops,No info,9632.48
+SpiceJet,17/05/2023,Delhi,Delhi,DEL → BOM → COK,16:00:00,16:00:00,3.15,1 stop,No check-in baggage included,7758.64
+Air India,18/05/2023,Banglore,New Delhi,BLR → DEL,17:00:00,17:00:00,5.59,3 stops,In-flight meal not included,4580.58
+Air India,19/05/2023,Chennai,Hyderabad,BLR → DEL,18:00:00,18:00:00,8.43,2 stops,No info,13383.55
+Vistara,20/05/2023,Banglore,Hyderabad,DEL → BOM → COK,19:00:00,19:00:00,3.52,non-stop,In-flight meal not included,4887.28
+IndiGo,21/05/2023,Chennai,Kolkata,BLR → DEL,20:00:00,20:00:00,9.48,1 stop,No info,6717.45
+Vistara,22/05/2023,Banglore,Kolkata,DEL → BOM → COK,21:00:00,21:00:00,8.86,1 stop,No info,6480.55
+SpiceJet,23/05/2023,Banglore,Cochin,DEL → BOM → COK,22:00:00,22:00:00,2.46,1 stop,No info,13456.97
+SpiceJet,24/05/2023,Mumbai,Delhi,DEL → BOM → COK,23:00:00,23:00:00,8.08,2 stops,No check-in baggage included,11072.44
+SpiceJet,25/05/2023,Banglore,Kolkata,DEL → BOM → COK,0:00:00,0:00:00,6.17,2 stops,No info,12560.18
+SpiceJet,26/05/2023,Kolkata,Hyderabad,BLR → DEL,1:00:00,1:00:00,6.1,2 stops,No info,6005.61
+SpiceJet,27/05/2023,Mumbai,New Delhi,DEL → BOM → COK,2:00:00,2:00:00,4.52,non-stop,No check-in baggage included,10498.49
+Jet Airways,28/05/2023,Banglore,Hyderabad,DEL → BOM → COK,3:00:00,3:00:00,5.51,non-stop,No check-in baggage included,9860.95
+Air India,29/05/2023,Delhi,Delhi,BLR → DEL,4:00:00,4:00:00,4.57,2 stops,No info,12993.96
+SpiceJet,30/05/2023,Kolkata,Hyderabad,BLR → DEL,5:00:00,5:00:00,5.86,non-stop,No check-in baggage included,13873.04
+IndiGo,31/05/2023,Kolkata,Cochin,CCU → MAA → COK,6:00:00,6:00:00,6.65,1 stop,In-flight meal not included,3145.88
+IndiGo,01/06/2023,Kolkata,Delhi,BLR → DEL,7:00:00,7:00:00,7.07,non-stop,In-flight meal not included,11088.24
+IndiGo,02/06/2023,Mumbai,New Delhi,BLR → DEL,8:00:00,8:00:00,5.79,1 stop,No check-in baggage included,3622.03
+IndiGo,03/06/2023,Banglore,Cochin,CCU → MAA → COK,9:00:00,9:00:00,7.49,non-stop,No check-in baggage included,9586.3
+Jet Airways,04/06/2023,Banglore,Delhi,BLR → DEL,10:00:00,10:00:00,2.27,1 stop,No info,6451.59
+IndiGo,05/06/2023,Delhi,New Delhi,BLR → DEL,11:00:00,11:00:00,2.91,4 stops,No check-in baggage included,6681.32
+SpiceJet,06/06/2023,Delhi,Cochin,BLR → DEL,12:00:00,12:00:00,8.37,non-stop,No info,7235.5
+Vistara,07/06/2023,Kolkata,Cochin,BLR → DEL,13:00:00,13:00:00,3.9,non-stop,In-flight meal not included,10455.51
+IndiGo,08/06/2023,Delhi,Delhi,CCU → MAA → COK,14:00:00,14:00:00,1.21,1 stop,No check-in baggage included,7008.6
+Jet Airways,09/06/2023,Mumbai,Kolkata,BLR → DEL,15:00:00,15:00:00,2.38,2 stops,No info,11792.39
+Jet Airways,10/06/2023,Banglore,Cochin,BLR → DEL,16:00:00,16:00:00,3.01,non-stop,No info,7854.33
+IndiGo,11/06/2023,Kolkata,Cochin,CCU → MAA → COK,17:00:00,17:00:00,9.62,1 stop,In-flight meal not included,3820.24
+Vistara,12/06/2023,Delhi,New Delhi,DEL → BOM → COK,18:00:00,18:00:00,6.16,non-stop,No check-in baggage included,12405.12
+IndiGo,13/06/2023,Mumbai,Hyderabad,CCU → MAA → COK,19:00:00,19:00:00,9.39,2 stops,In-flight meal not included,6429.1
+Jet Airways,14/06/2023,Mumbai,Delhi,DEL → BOM → COK,20:00:00,20:00:00,6.18,1 stop,No info,8193.2
+Air India,15/06/2023,Delhi,Delhi,CCU → MAA → COK,21:00:00,21:00:00,5.31,2 stops,No info,11225.33
+SpiceJet,16/06/2023,Banglore,Kolkata,CCU → MAA → COK,22:00:00,22:00:00,3.82,3 stops,No check-in baggage included,6989.47
+Jet Airways,17/06/2023,Delhi,Kolkata,BLR → DEL,23:00:00,23:00:00,6.46,non-stop,No info,3679.03
+IndiGo,18/06/2023,Kolkata,Delhi,DEL → BOM → COK,0:00:00,0:00:00,2.25,2 stops,No check-in baggage included,7487.05
+SpiceJet,19/06/2023,Delhi,Kolkata,BLR → DEL,1:00:00,1:00:00,9.08,non-stop,In-flight meal not included,14333.38
+IndiGo,20/06/2023,Mumbai,New Delhi,DEL → BOM → COK,2:00:00,2:00:00,8.46,2 stops,No check-in baggage included,10700.81
+IndiGo,21/06/2023,Delhi,Delhi,CCU → MAA → COK,3:00:00,3:00:00,3.86,1 stop,No check-in baggage included,11057.75
+Air India,22/06/2023,Banglore,Kolkata,CCU → MAA → COK,4:00:00,4:00:00,9.58,2 stops,No info,10587.39
+SpiceJet,23/06/2023,Chennai,Delhi,DEL → BOM → COK,5:00:00,5:00:00,8.43,non-stop,No info,5387.91
+SpiceJet,24/06/2023,Delhi,Hyderabad,BLR → DEL,6:00:00,6:00:00,7,non-stop,No check-in baggage included,8020.01
+Air India,25/06/2023,Banglore,Cochin,BLR → DEL,7:00:00,7:00:00,2.1,1 stop,No info,12011.28
+Jet Airways,26/06/2023,Banglore,Delhi,BLR → DEL,8:00:00,8:00:00,5.3,1 stop,No info,4216.47
+IndiGo,27/06/2023,Mumbai,Cochin,BLR → DEL,9:00:00,9:00:00,5.55,non-stop,No info,6334.23
+Vistara,28/06/2023,Banglore,Kolkata,CCU → MAA → COK,10:00:00,10:00:00,3.09,1 stop,No check-in baggage included,6315.83
+IndiGo,29/06/2023,Banglore,Cochin,CCU → MAA → COK,11:00:00,11:00:00,1.72,non-stop,No info,8184.23
+IndiGo,30/06/2023,Banglore,Delhi,CCU → MAA → COK,12:00:00,12:00:00,7.99,1 stop,No check-in baggage included,14764.42
+Jet Airways,01/07/2023,Banglore,Hyderabad,CCU → MAA → COK,13:00:00,13:00:00,2.1,2 stops,No info,3810.03
+IndiGo,02/07/2023,Kolkata,Kolkata,CCU → MAA → COK,14:00:00,14:00:00,6.35,1 stop,In-flight meal not included,9224.41
+Air India,03/07/2023,Kolkata,Delhi,BLR → DEL,15:00:00,15:00:00,9.43,non-stop,No info,5152.38
+Air India,04/07/2023,Mumbai,Kolkata,BLR → DEL,16:00:00,16:00:00,8.88,1 stop,No info,14648.12
+SpiceJet,05/07/2023,Delhi,New Delhi,BLR → DEL,17:00:00,17:00:00,3.5,non-stop,No check-in baggage included,4359.64
+Vistara,06/07/2023,Banglore,Cochin,BLR → DEL,18:00:00,18:00:00,8.66,3 stops,No check-in baggage included,7843.21
+IndiGo,07/07/2023,Delhi,New Delhi,CCU → MAA → COK,19:00:00,19:00:00,1,non-stop,No info,11854.62
+IndiGo,08/07/2023,Delhi,Delhi,CCU → MAA → COK,20:00:00,20:00:00,1.16,2 stops,In-flight meal not included,11454.65
+Jet Airways,09/07/2023,Mumbai,Hyderabad,CCU → MAA → COK,21:00:00,21:00:00,6.42,3 stops,No info,8072.74
+Air India,10/07/2023,Banglore,Kolkata,DEL → BOM → COK,22:00:00,22:00:00,4.28,2 stops,No info,7158.29
+Vistara,11/07/2023,Banglore,Cochin,BLR → DEL,23:00:00,23:00:00,4.48,1 stop,In-flight meal not included,7771.35
+SpiceJet,12/07/2023,Chennai,Kolkata,BLR → DEL,0:00:00,0:00:00,6.08,2 stops,No check-in baggage included,6171.32
+Air India,13/07/2023,Delhi,Delhi,CCU → MAA → COK,1:00:00,1:00:00,2.73,4 stops,No info,5464
+SpiceJet,14/07/2023,Delhi,Kolkata,BLR → DEL,2:00:00,2:00:00,2.91,1 stop,No check-in baggage included,8796.48
+Jet Airways,15/07/2023,Kolkata,Cochin,BLR → DEL,3:00:00,3:00:00,5.36,1 stop,No check-in baggage included,6222.41
+Jet Airways,16/07/2023,Chennai,Delhi,CCU → MAA → COK,4:00:00,4:00:00,7.79,1 stop,In-flight meal not included,6449.54
+IndiGo,17/07/2023,Kolkata,Kolkata,DEL → BOM → COK,5:00:00,5:00:00,6.58,1 stop,In-flight meal not included,10881.07
+Vistara,18/07/2023,Kolkata,Hyderabad,DEL → BOM → COK,6:00:00,6:00:00,3.68,1 stop,No check-in baggage included,14622.45
+SpiceJet,19/07/2023,Kolkata,Delhi,DEL → BOM → COK,7:00:00,7:00:00,4.87,1 stop,No info,10243.65
+Air India,20/07/2023,Mumbai,Delhi,CCU → MAA → COK,8:00:00,8:00:00,2.54,non-stop,No check-in baggage included,3923.75
+Jet Airways,21/07/2023,Mumbai,Hyderabad,BLR → DEL,9:00:00,9:00:00,1.67,non-stop,No info,3907
+IndiGo,22/07/2023,Kolkata,New Delhi,CCU → MAA → COK,10:00:00,10:00:00,8.04,non-stop,No info,14417.08
+IndiGo,23/07/2023,Chennai,Cochin,CCU → MAA → COK,11:00:00,11:00:00,3.39,non-stop,In-flight meal not included,6567.49
+SpiceJet,24/07/2023,Delhi,New Delhi,BLR → DEL,12:00:00,12:00:00,2.6,non-stop,No info,4104.8
+Jet Airways,25/07/2023,Chennai,Kolkata,DEL → BOM → COK,13:00:00,13:00:00,7.22,1 stop,No info,10188.54
+Vistara,26/07/2023,Banglore,Hyderabad,DEL → BOM → COK,14:00:00,14:00:00,6.56,non-stop,No check-in baggage included,10483.79
+Jet Airways,27/07/2023,Mumbai,New Delhi,CCU → MAA → COK,15:00:00,15:00:00,6.7,2 stops,In-flight meal not included,10782.06
+SpiceJet,28/07/2023,Delhi,Delhi,DEL → BOM → COK,16:00:00,16:00:00,3.06,non-stop,No info,6208.82
+SpiceJet,29/07/2023,Delhi,Kolkata,CCU → MAA → COK,17:00:00,17:00:00,3.09,non-stop,No info,3181.33
+Jet Airways,30/07/2023,Banglore,Kolkata,CCU → MAA → COK,18:00:00,18:00:00,2.99,2 stops,In-flight meal not included,14580.18
+SpiceJet,31/07/2023,Banglore,New Delhi,BLR → DEL,19:00:00,19:00:00,2.56,1 stop,No check-in baggage included,6010.72
+Jet Airways,01/08/2023,Kolkata,New Delhi,BLR → DEL,20:00:00,20:00:00,6.9,non-stop,In-flight meal not included,11112.32
+Air India,02/08/2023,Mumbai,Hyderabad,BLR → DEL,21:00:00,21:00:00,8.63,2 stops,In-flight meal not included,11479.56
+Jet Airways,03/08/2023,Mumbai,Cochin,CCU → MAA → COK,22:00:00,22:00:00,7.52,2 stops,No info,10320.09
+Jet Airways,04/08/2023,Chennai,New Delhi,BLR → DEL,23:00:00,23:00:00,8.13,1 stop,No info,6754.89
+SpiceJet,05/08/2023,Kolkata,New Delhi,DEL → BOM → COK,0:00:00,0:00:00,4.64,1 stop,No check-in baggage included,6253.16
+SpiceJet,06/08/2023,Kolkata,Delhi,DEL → BOM → COK,1:00:00,1:00:00,6.89,4 stops,No info,10172.02
+IndiGo,07/08/2023,Kolkata,Kolkata,CCU → MAA → COK,2:00:00,2:00:00,4.19,1 stop,No info,13393.15
+IndiGo,08/08/2023,Kolkata,Cochin,CCU → MAA → COK,3:00:00,3:00:00,5.73,1 stop,In-flight meal not included,14360.8
+Air India,09/08/2023,Mumbai,Delhi,BLR → DEL,4:00:00,4:00:00,5.33,2 stops,No info,4270.87
+IndiGo,10/08/2023,Mumbai,Hyderabad,CCU → MAA → COK,5:00:00,5:00:00,2.59,non-stop,No check-in baggage included,4857.94
+Jet Airways,11/08/2023,Kolkata,Hyderabad,CCU → MAA → COK,6:00:00,6:00:00,4.48,1 stop,In-flight meal not included,14336.84
+SpiceJet,12/08/2023,Chennai,New Delhi,DEL → BOM → COK,7:00:00,7:00:00,9.67,non-stop,No check-in baggage included,11838.42
+IndiGo,13/08/2023,Delhi,New Delhi,DEL → BOM → COK,8:00:00,8:00:00,3.24,2 stops,In-flight meal not included,13595.93
+IndiGo,14/08/2023,Delhi,Hyderabad,BLR → DEL,9:00:00,9:00:00,2.2,1 stop,No info,5431.59
+Air India,15/08/2023,Chennai,New Delhi,CCU → MAA → COK,10:00:00,10:00:00,4.77,1 stop,In-flight meal not included,10051.03
+Air India,16/08/2023,Kolkata,Cochin,CCU → MAA → COK,11:00:00,11:00:00,8.11,non-stop,In-flight meal not included,11413.68
+Jet Airways,17/08/2023,Mumbai,New Delhi,DEL → BOM → COK,12:00:00,12:00:00,6.24,non-stop,No info,11161.34
+SpiceJet,18/08/2023,Delhi,Kolkata,CCU → MAA → COK,13:00:00,13:00:00,7.13,1 stop,No info,7897.82
+Air India,19/08/2023,Banglore,New Delhi,DEL → BOM → COK,14:00:00,14:00:00,2.71,2 stops,No check-in baggage included,3184.74
+IndiGo,20/08/2023,Banglore,Delhi,BLR → DEL,15:00:00,15:00:00,6.57,1 stop,No check-in baggage included,9995.11
+SpiceJet,21/08/2023,Chennai,Cochin,DEL → BOM → COK,16:00:00,16:00:00,3.91,non-stop,No info,6037.22
+SpiceJet,22/08/2023,Kolkata,Delhi,CCU → MAA → COK,17:00:00,17:00:00,8.51,2 stops,No info,8403.05
+IndiGo,23/08/2023,Delhi,Delhi,BLR → DEL,18:00:00,18:00:00,6.66,non-stop,No info,14490.97
+Air India,24/08/2023,Kolkata,Kolkata,DEL → BOM → COK,19:00:00,19:00:00,2.79,3 stops,In-flight meal not included,7788.42
+IndiGo,25/08/2023,Delhi,Cochin,DEL → BOM → COK,20:00:00,20:00:00,1.58,non-stop,In-flight meal not included,13077.62
+SpiceJet,26/08/2023,Chennai,Cochin,BLR → DEL,21:00:00,21:00:00,1.38,1 stop,In-flight meal not included,5262.49
+Vistara,27/08/2023,Chennai,Cochin,BLR → DEL,22:00:00,22:00:00,4.34,non-stop,No info,11069.53
+Vistara,28/08/2023,Banglore,Cochin,DEL → BOM → COK,23:00:00,23:00:00,3.39,3 stops,No check-in baggage included,14724.08
+Jet Airways,29/08/2023,Kolkata,Cochin,CCU → MAA → COK,0:00:00,0:00:00,6.81,1 stop,No info,4222.72
+IndiGo,30/08/2023,Banglore,Kolkata,DEL → BOM → COK,1:00:00,1:00:00,5.49,non-stop,In-flight meal not included,3099.84
+IndiGo,31/08/2023,Kolkata,New Delhi,BLR → DEL,2:00:00,2:00:00,3.39,1 stop,In-flight meal not included,8202.99
+Jet Airways,01/09/2023,Banglore,Delhi,DEL → BOM → COK,3:00:00,3:00:00,2.34,non-stop,No info,4111.51
+Jet Airways,02/09/2023,Mumbai,Cochin,BLR → DEL,4:00:00,4:00:00,2.14,non-stop,No info,11980.61
+Jet Airways,03/09/2023,Mumbai,New Delhi,BLR → DEL,5:00:00,5:00:00,8.78,3 stops,In-flight meal not included,13974.58
+SpiceJet,04/09/2023,Mumbai,New Delhi,CCU → MAA → COK,6:00:00,6:00:00,3.19,1 stop,In-flight meal not included,8208.25
+IndiGo,05/09/2023,Mumbai,Delhi,BLR → DEL,7:00:00,7:00:00,6.87,2 stops,In-flight meal not included,6104.54
+SpiceJet,06/09/2023,Delhi,Kolkata,BLR → DEL,8:00:00,8:00:00,8.3,1 stop,No info,8212.84
+Jet Airways,07/09/2023,Mumbai,Hyderabad,CCU → MAA → COK,9:00:00,9:00:00,6.53,1 stop,In-flight meal not included,11681.37
+IndiGo,08/09/2023,Chennai,Hyderabad,BLR → DEL,10:00:00,10:00:00,8.74,non-stop,In-flight meal not included,3108.65
+SpiceJet,09/09/2023,Chennai,New Delhi,CCU → MAA → COK,11:00:00,11:00:00,4.53,non-stop,No check-in baggage included,10073.45
+SpiceJet,10/09/2023,Delhi,Delhi,CCU → MAA → COK,12:00:00,12:00:00,9.61,2 stops,No info,10359.5
+Jet Airways,11/09/2023,Mumbai,Hyderabad,BLR → DEL,13:00:00,13:00:00,2.2,3 stops,No check-in baggage included,10652.26
+IndiGo,12/09/2023,Mumbai,New Delhi,BLR → DEL,14:00:00,14:00:00,1.92,non-stop,No check-in baggage included,5904.26
+Jet Airways,13/09/2023,Mumbai,Kolkata,DEL → BOM → COK,15:00:00,15:00:00,6.93,non-stop,In-flight meal not included,11568.63
+IndiGo,14/09/2023,Banglore,Hyderabad,CCU → MAA → COK,16:00:00,16:00:00,9.49,1 stop,No info,4096.7
+Vistara,15/09/2023,Kolkata,New Delhi,DEL → BOM → COK,17:00:00,17:00:00,8.28,4 stops,In-flight meal not included,5391.24
+Air India,16/09/2023,Banglore,New Delhi,BLR → DEL,18:00:00,18:00:00,1.69,non-stop,No info,13529.64
+Air India,17/09/2023,Kolkata,Cochin,DEL → BOM → COK,19:00:00,19:00:00,3.51,1 stop,No check-in baggage included,11864.68
+Air India,18/09/2023,Mumbai,Kolkata,CCU → MAA → COK,20:00:00,20:00:00,9.37,2 stops,No info,3164.95
+Jet Airways,19/09/2023,Mumbai,Cochin,DEL → BOM → COK,21:00:00,21:00:00,3.28,non-stop,In-flight meal not included,5980.52
+Vistara,20/09/2023,Banglore,Delhi,CCU → MAA → COK,22:00:00,22:00:00,8.03,non-stop,In-flight meal not included,5572.88
+IndiGo,21/09/2023,Banglore,Cochin,BLR → DEL,23:00:00,23:00:00,8.43,1 stop,In-flight meal not included,6249.68
+SpiceJet,22/09/2023,Kolkata,Cochin,BLR → DEL,0:00:00,0:00:00,5.46,3 stops,No info,5970.72
+IndiGo,23/09/2023,Chennai,Hyderabad,CCU → MAA → COK,1:00:00,1:00:00,4.48,non-stop,No check-in baggage included,3750.32
+SpiceJet,24/09/2023,Kolkata,New Delhi,BLR → DEL,2:00:00,2:00:00,5.05,1 stop,No check-in baggage included,8507.29
+IndiGo,25/09/2023,Banglore,Kolkata,BLR → DEL,3:00:00,3:00:00,3.04,1 stop,No info,11792.8
+Vistara,26/09/2023,Banglore,Cochin,BLR → DEL,4:00:00,4:00:00,9,1 stop,In-flight meal not included,10280.78
+SpiceJet,27/09/2023,Delhi,Kolkata,BLR → DEL,5:00:00,5:00:00,5.06,1 stop,No check-in baggage included,11074.46
+Jet Airways,28/09/2023,Banglore,Cochin,CCU → MAA → COK,6:00:00,6:00:00,8.94,1 stop,In-flight meal not included,3973.79
+IndiGo,29/09/2023,Delhi,Delhi,DEL → BOM → COK,7:00:00,7:00:00,1.95,1 stop,No info,14417.89
+IndiGo,30/09/2023,Chennai,Cochin,DEL → BOM → COK,8:00:00,8:00:00,9.89,1 stop,In-flight meal not included,13061.9
+SpiceJet,01/10/2023,Kolkata,Hyderabad,BLR → DEL,9:00:00,9:00:00,4.99,1 stop,No check-in baggage included,12661.08
+Jet Airways,02/10/2023,Kolkata,New Delhi,DEL → BOM → COK,10:00:00,10:00:00,1.43,1 stop,No check-in baggage included,12875.81
+Jet Airways,03/10/2023,Delhi,Delhi,DEL → BOM → COK,11:00:00,11:00:00,1.34,2 stops,In-flight meal not included,14192.53
+Vistara,04/10/2023,Kolkata,Cochin,BLR → DEL,12:00:00,12:00:00,7.72,non-stop,No info,9531.05
+Jet Airways,05/10/2023,Banglore,Kolkata,BLR → DEL,13:00:00,13:00:00,6.93,2 stops,In-flight meal not included,5403.38
+Jet Airways,06/10/2023,Mumbai,Delhi,DEL → BOM → COK,14:00:00,14:00:00,8.22,2 stops,No info,10401.4
+Jet Airways,07/10/2023,Delhi,Delhi,CCU → MAA → COK,15:00:00,15:00:00,1.95,non-stop,In-flight meal not included,11914.58
+Air India,08/10/2023,Kolkata,Cochin,BLR → DEL,16:00:00,16:00:00,1.32,1 stop,No check-in baggage included,11855.01
+Vistara,09/10/2023,Delhi,Delhi,CCU → MAA → COK,17:00:00,17:00:00,5.58,1 stop,No info,9257.39
+IndiGo,10/10/2023,Delhi,Kolkata,DEL → BOM → COK,18:00:00,18:00:00,4.49,non-stop,No info,3821.5
+SpiceJet,11/10/2023,Mumbai,Delhi,BLR → DEL,19:00:00,19:00:00,5.16,1 stop,No info,7453.36
+IndiGo,12/10/2023,Banglore,Kolkata,CCU → MAA → COK,20:00:00,20:00:00,9.92,non-stop,No check-in baggage included,14049.2
+Vistara,13/10/2023,Delhi,Cochin,BLR → DEL,21:00:00,21:00:00,9.74,non-stop,In-flight meal not included,10013.39
+SpiceJet,14/10/2023,Kolkata,New Delhi,DEL → BOM → COK,22:00:00,22:00:00,9.48,2 stops,No check-in baggage included,9459.98
+Vistara,15/10/2023,Chennai,Delhi,CCU → MAA → COK,23:00:00,23:00:00,8.05,non-stop,No info,6226.24
+Jet Airways,16/10/2023,Delhi,New Delhi,DEL → BOM → COK,0:00:00,0:00:00,4.19,2 stops,In-flight meal not included,7421.39
+SpiceJet,17/10/2023,Delhi,Kolkata,DEL → BOM → COK,1:00:00,1:00:00,4.71,1 stop,No check-in baggage included,13744.15
+Jet Airways,18/10/2023,Mumbai,Delhi,BLR → DEL,2:00:00,2:00:00,5.95,2 stops,No info,10997.56
+IndiGo,19/10/2023,Banglore,Hyderabad,CCU → MAA → COK,3:00:00,3:00:00,8.47,1 stop,No info,12448.64
+IndiGo,20/10/2023,Chennai,New Delhi,DEL → BOM → COK,4:00:00,4:00:00,1.62,non-stop,No check-in baggage included,8452.15
+SpiceJet,21/10/2023,Kolkata,Delhi,DEL → BOM → COK,5:00:00,5:00:00,4.82,1 stop,No check-in baggage included,10562.97
+SpiceJet,22/10/2023,Chennai,New Delhi,CCU → MAA → COK,6:00:00,6:00:00,1.74,non-stop,No check-in baggage included,5980.6
+Vistara,23/10/2023,Kolkata,Delhi,DEL → BOM → COK,7:00:00,7:00:00,5.63,1 stop,No info,11465.53
+Vistara,24/10/2023,Banglore,Cochin,DEL → BOM → COK,8:00:00,8:00:00,9.09,3 stops,No check-in baggage included,8131.22
+Jet Airways,25/10/2023,Kolkata,New Delhi,CCU → MAA → COK,9:00:00,9:00:00,8.04,non-stop,No info,8310.55
+SpiceJet,26/10/2023,Mumbai,Hyderabad,CCU → MAA → COK,10:00:00,10:00:00,3.05,1 stop,No check-in baggage included,10791.87
+IndiGo,27/10/2023,Mumbai,Hyderabad,CCU → MAA → COK,11:00:00,11:00:00,9.78,2 stops,No info,14235.37
+Vistara,28/10/2023,Mumbai,Kolkata,CCU → MAA → COK,12:00:00,12:00:00,7.01,2 stops,No info,3768.08
+Vistara,29/10/2023,Mumbai,Delhi,BLR → DEL,13:00:00,13:00:00,1.09,1 stop,In-flight meal not included,12896.92
+IndiGo,30/10/2023,Chennai,New Delhi,CCU → MAA → COK,14:00:00,14:00:00,3.3,non-stop,No check-in baggage included,6508.6
+Vistara,31/10/2023,Banglore,Kolkata,BLR → DEL,15:00:00,15:00:00,3.35,1 stop,No check-in baggage included,8327.03
+Jet Airways,01/11/2023,Kolkata,New Delhi,BLR → DEL,16:00:00,16:00:00,1.62,non-stop,No info,3262.96
+SpiceJet,02/11/2023,Kolkata,Delhi,BLR → DEL,17:00:00,17:00:00,9.64,2 stops,No info,6612.55
+IndiGo,03/11/2023,Mumbai,Hyderabad,DEL → BOM → COK,18:00:00,18:00:00,5.3,3 stops,No info,9031.57
+SpiceJet,04/11/2023,Mumbai,Cochin,BLR → DEL,19:00:00,19:00:00,9.06,2 stops,In-flight meal not included,3674.11
+Vistara,05/11/2023,Delhi,Hyderabad,BLR → DEL,20:00:00,20:00:00,3.9,2 stops,In-flight meal not included,8893.15
+Vistara,06/11/2023,Banglore,Kolkata,DEL → BOM → COK,21:00:00,21:00:00,2.13,non-stop,No info,14125.33
+IndiGo,07/11/2023,Chennai,Cochin,DEL → BOM → COK,22:00:00,22:00:00,5.27,2 stops,No check-in baggage included,4264.72
+Jet Airways,08/11/2023,Kolkata,Kolkata,DEL → BOM → COK,23:00:00,23:00:00,2.03,2 stops,No check-in baggage included,12173.29
+Air India,09/11/2023,Delhi,Delhi,CCU → MAA → COK,0:00:00,0:00:00,5.37,non-stop,In-flight meal not included,7916.05
+IndiGo,10/11/2023,Delhi,Cochin,DEL → BOM → COK,1:00:00,1:00:00,9.28,2 stops,In-flight meal not included,10862.08
+Air India,11/11/2023,Kolkata,Kolkata,DEL → BOM → COK,2:00:00,2:00:00,5.69,non-stop,No info,6122.84
+Air India,12/11/2023,Chennai,Delhi,BLR → DEL,3:00:00,3:00:00,6.55,1 stop,No check-in baggage included,4913.91
+Jet Airways,13/11/2023,Delhi,Hyderabad,DEL → BOM → COK,4:00:00,4:00:00,2.41,2 stops,No info,4925.55
+Air India,14/11/2023,Delhi,Delhi,CCU → MAA → COK,5:00:00,5:00:00,1.39,1 stop,In-flight meal not included,3845.9
+Air India,15/11/2023,Banglore,New Delhi,DEL → BOM → COK,6:00:00,6:00:00,2,non-stop,No check-in baggage included,5227.76
+Jet Airways,16/11/2023,Chennai,Delhi,CCU → MAA → COK,7:00:00,7:00:00,6.39,1 stop,No check-in baggage included,10970.63
+Air India,17/11/2023,Delhi,Delhi,DEL → BOM → COK,8:00:00,8:00:00,1.86,1 stop,In-flight meal not included,13580.29
+Air India,18/11/2023,Chennai,New Delhi,DEL → BOM → COK,9:00:00,9:00:00,4.38,3 stops,No info,12769.51
+Air India,19/11/2023,Kolkata,Kolkata,DEL → BOM → COK,10:00:00,10:00:00,5.95,1 stop,No info,11221.61
+IndiGo,20/11/2023,Mumbai,Kolkata,DEL → BOM → COK,11:00:00,11:00:00,4.5,1 stop,No check-in baggage included,4325.18
+IndiGo,21/11/2023,Delhi,Delhi,CCU → MAA → COK,12:00:00,12:00:00,2.47,2 stops,In-flight meal not included,6470.25
+IndiGo,22/11/2023,Banglore,New Delhi,CCU → MAA → COK,13:00:00,13:00:00,3.46,1 stop,No check-in baggage included,6717.68
+Jet Airways,23/11/2023,Kolkata,New Delhi,BLR → DEL,14:00:00,14:00:00,9.35,1 stop,In-flight meal not included,5999.48
+Vistara,24/11/2023,Chennai,Hyderabad,CCU → MAA → COK,15:00:00,15:00:00,7.08,1 stop,No info,9180.07
+Air India,25/11/2023,Kolkata,Kolkata,DEL → BOM → COK,16:00:00,16:00:00,5.46,2 stops,In-flight meal not included,9426.65
+Air India,26/11/2023,Delhi,Cochin,BLR → DEL,17:00:00,17:00:00,1.11,1 stop,No info,7282.63
+Jet Airways,27/11/2023,Chennai,Kolkata,BLR → DEL,18:00:00,18:00:00,9.93,1 stop,In-flight meal not included,7245.47
+Air India,28/11/2023,Mumbai,Kolkata,BLR → DEL,19:00:00,19:00:00,7.04,non-stop,No check-in baggage included,12942.67
+IndiGo,29/11/2023,Kolkata,Hyderabad,DEL → BOM → COK,20:00:00,20:00:00,3.85,non-stop,No info,12471.51
+Vistara,30/11/2023,Delhi,Cochin,CCU → MAA → COK,21:00:00,21:00:00,8.91,non-stop,No check-in baggage included,6693.55
+SpiceJet,01/12/2023,Banglore,Hyderabad,DEL → BOM → COK,22:00:00,22:00:00,3.33,non-stop,No check-in baggage included,13965.46
+Air India,02/12/2023,Chennai,Cochin,BLR → DEL,23:00:00,23:00:00,5.9,1 stop,No info,14433.78
+IndiGo,03/12/2023,Kolkata,Delhi,DEL → BOM → COK,0:00:00,0:00:00,6.72,2 stops,No info,6920.91
+SpiceJet,04/12/2023,Kolkata,Cochin,DEL → BOM → COK,1:00:00,1:00:00,2.99,1 stop,No check-in baggage included,7253.1
+Vistara,05/12/2023,Mumbai,Hyderabad,CCU → MAA → COK,2:00:00,2:00:00,9.81,2 stops,No check-in baggage included,9067.61
+SpiceJet,06/12/2023,Mumbai,Kolkata,CCU → MAA → COK,3:00:00,3:00:00,7.73,4 stops,No check-in baggage included,14293.45
+IndiGo,07/12/2023,Banglore,Cochin,BLR → DEL,4:00:00,4:00:00,6.02,2 stops,No check-in baggage included,13515.83
+SpiceJet,08/12/2023,Banglore,Cochin,DEL → BOM → COK,5:00:00,5:00:00,2.63,1 stop,No info,4230.82
+Jet Airways,09/12/2023,Delhi,New Delhi,DEL → BOM → COK,6:00:00,6:00:00,1.48,1 stop,No info,7712.77
+SpiceJet,10/12/2023,Delhi,Kolkata,CCU → MAA → COK,7:00:00,7:00:00,3.88,1 stop,No check-in baggage included,9640.45
+Air India,11/12/2023,Banglore,Delhi,DEL → BOM → COK,8:00:00,8:00:00,7.78,non-stop,In-flight meal not included,9037.59
+Air India,12/12/2023,Banglore,Hyderabad,DEL → BOM → COK,9:00:00,9:00:00,3.42,1 stop,In-flight meal not included,5326.36
+Jet Airways,13/12/2023,Chennai,Delhi,DEL → BOM → COK,10:00:00,10:00:00,5.86,3 stops,No info,13305.8
+IndiGo,14/12/2023,Mumbai,Kolkata,CCU → MAA → COK,11:00:00,11:00:00,7.55,2 stops,No check-in baggage included,11123.29
+Air India,15/12/2023,Delhi,Cochin,BLR → DEL,12:00:00,12:00:00,1.97,non-stop,No check-in baggage included,13054.9
+Vistara,16/12/2023,Mumbai,Cochin,BLR → DEL,13:00:00,13:00:00,7.17,1 stop,No info,13305.17
+Air India,17/12/2023,Mumbai,Kolkata,DEL → BOM → COK,14:00:00,14:00:00,1.83,2 stops,In-flight meal not included,11980.27
+Air India,18/12/2023,Banglore,Cochin,BLR → DEL,15:00:00,15:00:00,9.69,non-stop,In-flight meal not included,8270.53
+IndiGo,19/12/2023,Chennai,Cochin,CCU → MAA → COK,16:00:00,16:00:00,5.4,1 stop,In-flight meal not included,10326.56
+SpiceJet,20/12/2023,Kolkata,Cochin,CCU → MAA → COK,17:00:00,17:00:00,2.36,2 stops,No info,4924.38
+Air India,21/12/2023,Chennai,Hyderabad,BLR → DEL,18:00:00,18:00:00,4.08,1 stop,In-flight meal not included,11083.75
+Jet Airways,22/12/2023,Chennai,Hyderabad,BLR → DEL,19:00:00,19:00:00,4.72,non-stop,No info,5151.04
+SpiceJet,23/12/2023,Mumbai,New Delhi,DEL → BOM → COK,20:00:00,20:00:00,7.82,1 stop,No info,11327.4
+Vistara,24/12/2023,Chennai,Delhi,BLR → DEL,21:00:00,21:00:00,7.69,2 stops,No check-in baggage included,5755.18
+IndiGo,25/12/2023,Delhi,Kolkata,DEL → BOM → COK,22:00:00,22:00:00,6.51,1 stop,In-flight meal not included,4410.62
+Vistara,26/12/2023,Mumbai,Kolkata,DEL → BOM → COK,23:00:00,23:00:00,1.95,non-stop,No info,4983.41
+SpiceJet,27/12/2023,Delhi,Kolkata,CCU → MAA → COK,0:00:00,0:00:00,2.36,1 stop,In-flight meal not included,3023.91
+SpiceJet,28/12/2023,Kolkata,New Delhi,CCU → MAA → COK,1:00:00,1:00:00,1.84,1 stop,In-flight meal not included,11624.88
+SpiceJet,29/12/2023,Mumbai,Hyderabad,CCU → MAA → COK,2:00:00,2:00:00,6.19,1 stop,No check-in baggage included,11788.81
+Vistara,30/12/2023,Kolkata,New Delhi,CCU → MAA → COK,3:00:00,3:00:00,8.89,2 stops,In-flight meal not included,9179.2
+SpiceJet,31/12/2023,Mumbai,Kolkata,BLR → DEL,4:00:00,4:00:00,4.9,non-stop,No check-in baggage included,4936.35
+Vistara,01/01/2024,Banglore,Delhi,CCU → MAA → COK,5:00:00,5:00:00,2.45,2 stops,No info,4002.65
+SpiceJet,02/01/2024,Chennai,Cochin,BLR → DEL,6:00:00,6:00:00,6.02,non-stop,In-flight meal not included,3229.55
+Jet Airways,03/01/2024,Banglore,Hyderabad,CCU → MAA → COK,7:00:00,7:00:00,8.31,1 stop,No info,4988.98
+SpiceJet,04/01/2024,Kolkata,Hyderabad,BLR → DEL,8:00:00,8:00:00,7.68,non-stop,In-flight meal not included,13690.27
+Vistara,05/01/2024,Chennai,New Delhi,DEL → BOM → COK,9:00:00,9:00:00,8.93,1 stop,No info,5898.44
+Air India,06/01/2024,Mumbai,Hyderabad,BLR → DEL,10:00:00,10:00:00,3.5,1 stop,In-flight meal not included,7251.26
+SpiceJet,07/01/2024,Chennai,Kolkata,BLR → DEL,11:00:00,11:00:00,2.75,1 stop,In-flight meal not included,4264.15
+Air India,08/01/2024,Delhi,Kolkata,CCU → MAA → COK,12:00:00,12:00:00,8.92,non-stop,In-flight meal not included,5668.34
+Jet Airways,09/01/2024,Chennai,New Delhi,BLR → DEL,13:00:00,13:00:00,6.92,1 stop,In-flight meal not included,9230.69
+IndiGo,10/01/2024,Delhi,Kolkata,DEL → BOM → COK,14:00:00,14:00:00,3.8,non-stop,In-flight meal not included,10293.03
+Jet Airways,11/01/2024,Chennai,Delhi,DEL → BOM → COK,15:00:00,15:00:00,7.68,2 stops,In-flight meal not included,5944.23
+SpiceJet,12/01/2024,Delhi,New Delhi,CCU → MAA → COK,16:00:00,16:00:00,8.34,3 stops,In-flight meal not included,3692.79
+Air India,13/01/2024,Kolkata,Delhi,DEL → BOM → COK,17:00:00,17:00:00,6.53,1 stop,In-flight meal not included,7692.39
+Air India,14/01/2024,Banglore,Cochin,BLR → DEL,18:00:00,18:00:00,7.19,1 stop,In-flight meal not included,5810.44
+Vistara,15/01/2024,Mumbai,Delhi,DEL → BOM → COK,19:00:00,19:00:00,4.38,1 stop,No info,5634.65
+Air India,16/01/2024,Chennai,Cochin,CCU → MAA → COK,20:00:00,20:00:00,5.85,non-stop,No check-in baggage included,14518.35
+Vistara,17/01/2024,Banglore,Cochin,BLR → DEL,21:00:00,21:00:00,5.72,1 stop,In-flight meal not included,10395.61
+IndiGo,18/01/2024,Mumbai,Delhi,CCU → MAA → COK,22:00:00,22:00:00,8.63,2 stops,No check-in baggage included,9682.54
+SpiceJet,19/01/2024,Mumbai,New Delhi,BLR → DEL,23:00:00,23:00:00,8.56,1 stop,In-flight meal not included,7989.3
+Vistara,20/01/2024,Delhi,Kolkata,DEL → BOM → COK,0:00:00,0:00:00,8.49,non-stop,In-flight meal not included,8147.33
+IndiGo,21/01/2024,Kolkata,Kolkata,CCU → MAA → COK,1:00:00,1:00:00,1.1,2 stops,No info,9490.86
+Air India,22/01/2024,Kolkata,Cochin,CCU → MAA → COK,2:00:00,2:00:00,7.75,1 stop,No info,11357.16
+Air India,23/01/2024,Banglore,Cochin,BLR → DEL,3:00:00,3:00:00,7.83,2 stops,No check-in baggage included,11425.75
+IndiGo,24/01/2024,Kolkata,New Delhi,CCU → MAA → COK,4:00:00,4:00:00,7.11,1 stop,No info,5060.33
+Air India,25/01/2024,Chennai,Hyderabad,BLR → DEL,5:00:00,5:00:00,7.81,1 stop,No info,9001.35
+IndiGo,26/01/2024,Kolkata,Delhi,BLR → DEL,6:00:00,6:00:00,8.58,non-stop,No check-in baggage included,7943.5
+Vistara,27/01/2024,Banglore,Cochin,BLR → DEL,7:00:00,7:00:00,5.23,non-stop,No info,13446.32
+Vistara,28/01/2024,Kolkata,Kolkata,BLR → DEL,8:00:00,8:00:00,5.52,3 stops,In-flight meal not included,10577.03
+IndiGo,29/01/2024,Chennai,New Delhi,DEL → BOM → COK,9:00:00,9:00:00,2.12,non-stop,No check-in baggage included,9390.05
+Vistara,30/01/2024,Delhi,Delhi,BLR → DEL,10:00:00,10:00:00,4.47,3 stops,No check-in baggage included,4384.74
+Vistara,31/01/2024,Banglore,New Delhi,CCU → MAA → COK,11:00:00,11:00:00,6.79,1 stop,In-flight meal not included,10267.65
+Vistara,01/02/2024,Delhi,Delhi,DEL → BOM → COK,12:00:00,12:00:00,8.02,non-stop,No info,4406.45
+Jet Airways,02/02/2024,Delhi,Delhi,CCU → MAA → COK,13:00:00,13:00:00,2.95,non-stop,No check-in baggage included,7046.48
+SpiceJet,03/02/2024,Delhi,Cochin,DEL → BOM → COK,14:00:00,14:00:00,2.24,non-stop,No check-in baggage included,4714.1
+Air India,04/02/2024,Mumbai,New Delhi,BLR → DEL,15:00:00,15:00:00,6.97,3 stops,In-flight meal not included,11304.88
+Jet Airways,05/02/2024,Mumbai,New Delhi,DEL → BOM → COK,16:00:00,16:00:00,1.02,1 stop,In-flight meal not included,5475.03
+Vistara,06/02/2024,Delhi,Kolkata,DEL → BOM → COK,17:00:00,17:00:00,2.61,1 stop,No info,7702.31
+IndiGo,07/02/2024,Banglore,Kolkata,CCU → MAA → COK,18:00:00,18:00:00,1.26,1 stop,No check-in baggage included,13748.1
+Vistara,08/02/2024,Chennai,Cochin,CCU → MAA → COK,19:00:00,19:00:00,2.5,non-stop,No info,5451.8
+SpiceJet,09/02/2024,Chennai,Cochin,BLR → DEL,20:00:00,20:00:00,2.63,1 stop,No info,9093.66
+Vistara,10/02/2024,Kolkata,Hyderabad,DEL → BOM → COK,21:00:00,21:00:00,4.49,non-stop,In-flight meal not included,8031.26
+IndiGo,11/02/2024,Banglore,Kolkata,DEL → BOM → COK,22:00:00,22:00:00,4.62,2 stops,No check-in baggage included,3217.49
+SpiceJet,12/02/2024,Mumbai,Delhi,DEL → BOM → COK,23:00:00,23:00:00,8.87,1 stop,No check-in baggage included,12513.1
+Vistara,13/02/2024,Delhi,New Delhi,BLR → DEL,0:00:00,0:00:00,5.59,1 stop,No check-in baggage included,3828.55
+SpiceJet,14/02/2024,Kolkata,Cochin,BLR → DEL,1:00:00,1:00:00,7.51,1 stop,In-flight meal not included,8691.06
+Air India,15/02/2024,Chennai,New Delhi,BLR → DEL,2:00:00,2:00:00,1.94,1 stop,In-flight meal not included,9728.14
+Air India,16/02/2024,Mumbai,New Delhi,BLR → DEL,3:00:00,3:00:00,3.03,4 stops,In-flight meal not included,10541.12
+Vistara,17/02/2024,Mumbai,Hyderabad,BLR → DEL,4:00:00,4:00:00,7.33,1 stop,In-flight meal not included,11263.58
+SpiceJet,18/02/2024,Delhi,Kolkata,CCU → MAA → COK,5:00:00,5:00:00,1.48,non-stop,In-flight meal not included,6039.27
+IndiGo,19/02/2024,Chennai,Cochin,DEL → BOM → COK,6:00:00,6:00:00,5.38,1 stop,No check-in baggage included,3119.75
+Vistara,20/02/2024,Banglore,New Delhi,DEL → BOM → COK,7:00:00,7:00:00,6.39,non-stop,No info,11681.32
+Air India,21/02/2024,Mumbai,Cochin,DEL → BOM → COK,8:00:00,8:00:00,6.42,non-stop,No check-in baggage included,9427.88
+Air India,22/02/2024,Delhi,Delhi,DEL → BOM → COK,9:00:00,9:00:00,1.21,3 stops,No info,13033.41
+Vistara,23/02/2024,Banglore,Hyderabad,DEL → BOM → COK,10:00:00,10:00:00,3.9,2 stops,In-flight meal not included,12856.66
+SpiceJet,24/02/2024,Chennai,Delhi,DEL → BOM → COK,11:00:00,11:00:00,6.73,4 stops,No info,13119.91
+Air India,25/02/2024,Mumbai,Cochin,DEL → BOM → COK,12:00:00,12:00:00,2.34,1 stop,No check-in baggage included,8821.14
+SpiceJet,26/02/2024,Banglore,Cochin,DEL → BOM → COK,13:00:00,13:00:00,7.26,1 stop,No check-in baggage included,7003.54
+Air India,27/02/2024,Banglore,Kolkata,CCU → MAA → COK,14:00:00,14:00:00,7.71,non-stop,No info,12498.7
+Air India,28/02/2024,Banglore,New Delhi,DEL → BOM → COK,15:00:00,15:00:00,9.84,non-stop,In-flight meal not included,8415.53
+Jet Airways,29/02/2024,Mumbai,New Delhi,CCU → MAA → COK,16:00:00,16:00:00,2.89,2 stops,In-flight meal not included,5201.31
+Air India,01/03/2024,Mumbai,Delhi,BLR → DEL,17:00:00,17:00:00,8.43,1 stop,No check-in baggage included,13259.69
+IndiGo,02/03/2024,Kolkata,Hyderabad,DEL → BOM → COK,18:00:00,18:00:00,5.68,2 stops,No info,13590.72
+Vistara,03/03/2024,Chennai,New Delhi,BLR → DEL,19:00:00,19:00:00,4.36,2 stops,In-flight meal not included,8595.72
+Vistara,04/03/2024,Delhi,Kolkata,BLR → DEL,20:00:00,20:00:00,2.1,non-stop,In-flight meal not included,3908.4
+SpiceJet,05/03/2024,Banglore,Delhi,BLR → DEL,21:00:00,21:00:00,7.62,1 stop,No check-in baggage included,7653.91
+Air India,06/03/2024,Kolkata,Delhi,CCU → MAA → COK,22:00:00,22:00:00,3.12,1 stop,In-flight meal not included,12642.45
+IndiGo,07/03/2024,Delhi,Kolkata,BLR → DEL,23:00:00,23:00:00,4.34,non-stop,No info,13821.29
+SpiceJet,08/03/2024,Kolkata,Hyderabad,BLR → DEL,0:00:00,0:00:00,1.56,2 stops,No check-in baggage included,5441.67
+Jet Airways,09/03/2024,Mumbai,Kolkata,BLR → DEL,1:00:00,1:00:00,8.21,1 stop,No check-in baggage included,3803.68
+SpiceJet,10/03/2024,Banglore,Hyderabad,DEL → BOM → COK,2:00:00,2:00:00,7.9,non-stop,No info,13528.21
+SpiceJet,11/03/2024,Delhi,Kolkata,DEL → BOM → COK,3:00:00,3:00:00,7.6,1 stop,No check-in baggage included,7672.86
+Air India,12/03/2024,Delhi,Kolkata,CCU → MAA → COK,4:00:00,4:00:00,3.69,4 stops,In-flight meal not included,9501.13
+Jet Airways,13/03/2024,Delhi,Cochin,CCU → MAA → COK,5:00:00,5:00:00,2.56,non-stop,In-flight meal not included,14616.79
+SpiceJet,14/03/2024,Delhi,Delhi,DEL → BOM → COK,6:00:00,6:00:00,6.74,2 stops,No info,3798.78
+IndiGo,15/03/2024,Delhi,Kolkata,CCU → MAA → COK,7:00:00,7:00:00,5.47,non-stop,In-flight meal not included,10779.82
+IndiGo,16/03/2024,Kolkata,Kolkata,DEL → BOM → COK,8:00:00,8:00:00,2.6,2 stops,No info,3889.27
+Vistara,17/03/2024,Banglore,New Delhi,BLR → DEL,9:00:00,9:00:00,7.17,2 stops,No info,7505.63
+Jet Airways,18/03/2024,Mumbai,Delhi,BLR → DEL,10:00:00,10:00:00,9.92,1 stop,In-flight meal not included,12645.77
+Jet Airways,19/03/2024,Mumbai,New Delhi,CCU → MAA → COK,11:00:00,11:00:00,7.72,1 stop,No info,8201.67
+Vistara,20/03/2024,Mumbai,Delhi,DEL → BOM → COK,12:00:00,12:00:00,7.66,2 stops,In-flight meal not included,14966.19
+SpiceJet,21/03/2024,Mumbai,New Delhi,DEL → BOM → COK,13:00:00,13:00:00,9.55,1 stop,No check-in baggage included,9708.71
+Jet Airways,22/03/2024,Kolkata,Kolkata,CCU → MAA → COK,14:00:00,14:00:00,2.83,2 stops,No check-in baggage included,6853.95
+IndiGo,23/03/2024,Chennai,Kolkata,DEL → BOM → COK,15:00:00,15:00:00,6.09,non-stop,No info,5641.34
+IndiGo,24/03/2024,Banglore,Cochin,BLR → DEL,16:00:00,16:00:00,9.82,2 stops,In-flight meal not included,7206.25
+Air India,25/03/2024,Delhi,New Delhi,CCU → MAA → COK,17:00:00,17:00:00,2.49,2 stops,In-flight meal not included,7470.4
+Jet Airways,26/03/2024,Chennai,Hyderabad,CCU → MAA → COK,18:00:00,18:00:00,7.3,3 stops,No check-in baggage included,3824.56
+SpiceJet,27/03/2024,Mumbai,Cochin,DEL → BOM → COK,19:00:00,19:00:00,6.27,non-stop,No check-in baggage included,7434.89
+Vistara,28/03/2024,Chennai,New Delhi,CCU → MAA → COK,20:00:00,20:00:00,6.28,1 stop,In-flight meal not included,8570.86
+Vistara,29/03/2024,Banglore,New Delhi,DEL → BOM → COK,21:00:00,21:00:00,7.28,1 stop,No info,11672.85
+SpiceJet,30/03/2024,Delhi,Cochin,DEL → BOM → COK,22:00:00,22:00:00,9.37,1 stop,No check-in baggage included,10880.75
+Air India,31/03/2024,Delhi,Kolkata,DEL → BOM → COK,23:00:00,23:00:00,8.04,1 stop,No info,11505.19
+Vistara,01/04/2024,Banglore,New Delhi,DEL → BOM → COK,0:00:00,0:00:00,1.51,non-stop,No info,3100.36
+Jet Airways,02/04/2024,Banglore,Kolkata,DEL → BOM → COK,1:00:00,1:00:00,8.67,2 stops,No check-in baggage included,5612.01
+Air India,03/04/2024,Mumbai,Cochin,CCU → MAA → COK,2:00:00,2:00:00,3.03,1 stop,No info,10940.21
+Jet Airways,04/04/2024,Delhi,Kolkata,BLR → DEL,3:00:00,3:00:00,4.39,non-stop,No info,8807.87
+IndiGo,05/04/2024,Chennai,Delhi,BLR → DEL,4:00:00,4:00:00,5.16,1 stop,In-flight meal not included,3063.76
+Air India,06/04/2024,Kolkata,Hyderabad,CCU → MAA → COK,5:00:00,5:00:00,5.33,1 stop,No info,12653.94
+Vistara,07/04/2024,Kolkata,New Delhi,CCU → MAA → COK,6:00:00,6:00:00,4.92,non-stop,In-flight meal not included,12273.71
+Air India,08/04/2024,Banglore,Hyderabad,BLR → DEL,7:00:00,7:00:00,9.44,3 stops,No check-in baggage included,9581.03
+Air India,09/04/2024,Mumbai,Kolkata,BLR → DEL,8:00:00,8:00:00,7.35,3 stops,No check-in baggage included,3797.56
+Air India,10/04/2024,Kolkata,New Delhi,BLR → DEL,9:00:00,9:00:00,6.68,1 stop,In-flight meal not included,12198.18
+Air India,11/04/2024,Delhi,Kolkata,BLR → DEL,10:00:00,10:00:00,1.45,non-stop,No check-in baggage included,10004.56
+Jet Airways,12/04/2024,Banglore,Delhi,BLR → DEL,11:00:00,11:00:00,9.14,2 stops,No info,12383.52
+IndiGo,13/04/2024,Chennai,Cochin,DEL → BOM → COK,12:00:00,12:00:00,9.18,1 stop,No info,12020.96
+SpiceJet,14/04/2024,Banglore,New Delhi,CCU → MAA → COK,13:00:00,13:00:00,8.02,1 stop,No info,12636.02
+Air India,15/04/2024,Chennai,Delhi,DEL → BOM → COK,14:00:00,14:00:00,1.06,1 stop,No check-in baggage included,9216.1
+Vistara,16/04/2024,Banglore,Delhi,BLR → DEL,15:00:00,15:00:00,1.52,1 stop,No info,4683.89
+Air India,17/04/2024,Banglore,New Delhi,BLR → DEL,16:00:00,16:00:00,3.03,1 stop,No check-in baggage included,11053.89
+Vistara,18/04/2024,Banglore,Kolkata,BLR → DEL,17:00:00,17:00:00,2.18,1 stop,No info,10445.69
+Jet Airways,19/04/2024,Chennai,Delhi,DEL → BOM → COK,18:00:00,18:00:00,4.59,1 stop,In-flight meal not included,11907.04
+Vistara,20/04/2024,Chennai,Hyderabad,DEL → BOM → COK,19:00:00,19:00:00,9.3,3 stops,No check-in baggage included,5038.57
+SpiceJet,21/04/2024,Banglore,Delhi,BLR → DEL,20:00:00,20:00:00,5.25,1 stop,No check-in baggage included,5339.7
+IndiGo,22/04/2024,Kolkata,Kolkata,DEL → BOM → COK,21:00:00,21:00:00,1.12,2 stops,No info,13684.91
+Vistara,23/04/2024,Mumbai,Kolkata,DEL → BOM → COK,22:00:00,22:00:00,3.54,2 stops,No check-in baggage included,11999.73
+Vistara,24/04/2024,Mumbai,Hyderabad,BLR → DEL,23:00:00,23:00:00,1.4,1 stop,No check-in baggage included,13898.74
+IndiGo,25/04/2024,Mumbai,Delhi,DEL → BOM → COK,0:00:00,0:00:00,1.33,1 stop,In-flight meal not included,12104.58
+SpiceJet,26/04/2024,Chennai,Kolkata,CCU → MAA → COK,1:00:00,1:00:00,3.48,1 stop,In-flight meal not included,10165.86
+Air India,27/04/2024,Chennai,New Delhi,CCU → MAA → COK,2:00:00,2:00:00,3.48,1 stop,No info,10849.59
+Vistara,28/04/2024,Kolkata,Cochin,CCU → MAA → COK,3:00:00,3:00:00,8.08,2 stops,In-flight meal not included,13669.54
+IndiGo,29/04/2024,Mumbai,Cochin,CCU → MAA → COK,4:00:00,4:00:00,9.77,1 stop,No info,9945.68
+Jet Airways,30/04/2024,Mumbai,Cochin,BLR → DEL,5:00:00,5:00:00,4.34,4 stops,No info,10588.7
+IndiGo,01/05/2024,Banglore,Delhi,BLR → DEL,6:00:00,6:00:00,4.86,non-stop,No info,4877.72
+Jet Airways,02/05/2024,Chennai,Hyderabad,BLR → DEL,7:00:00,7:00:00,8.6,non-stop,No check-in baggage included,8687.05
+SpiceJet,03/05/2024,Mumbai,Kolkata,CCU → MAA → COK,8:00:00,8:00:00,3.41,1 stop,In-flight meal not included,11596.77
+Air India,04/05/2024,Kolkata,New Delhi,CCU → MAA → COK,9:00:00,9:00:00,2.41,non-stop,No info,6251.31
+IndiGo,05/05/2024,Kolkata,New Delhi,DEL → BOM → COK,10:00:00,10:00:00,8.68,non-stop,In-flight meal not included,5427.05
+Vistara,06/05/2024,Mumbai,Delhi,DEL → BOM → COK,11:00:00,11:00:00,1.42,1 stop,No info,6765.92
+SpiceJet,07/05/2024,Chennai,Cochin,CCU → MAA → COK,12:00:00,12:00:00,6.58,non-stop,In-flight meal not included,5898.01
+IndiGo,08/05/2024,Kolkata,Delhi,CCU → MAA → COK,13:00:00,13:00:00,6.06,non-stop,In-flight meal not included,5578.95
+Vistara,09/05/2024,Banglore,Hyderabad,CCU → MAA → COK,14:00:00,14:00:00,4.11,3 stops,No info,8098.21
+IndiGo,10/05/2024,Kolkata,Hyderabad,CCU → MAA → COK,15:00:00,15:00:00,3.84,non-stop,No check-in baggage included,13894.06
+Jet Airways,11/05/2024,Delhi,Kolkata,DEL → BOM → COK,16:00:00,16:00:00,7.95,2 stops,In-flight meal not included,9084.72
+IndiGo,12/05/2024,Delhi,Kolkata,CCU → MAA → COK,17:00:00,17:00:00,1.78,2 stops,No check-in baggage included,5255.04
+IndiGo,13/05/2024,Chennai,Hyderabad,DEL → BOM → COK,18:00:00,18:00:00,3.13,3 stops,No check-in baggage included,3923.66
+IndiGo,14/05/2024,Mumbai,Hyderabad,CCU → MAA → COK,19:00:00,19:00:00,7.59,non-stop,No info,11353.87
